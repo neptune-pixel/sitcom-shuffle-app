@@ -21,10 +21,10 @@
     "*://*.disneyplus.com/*",
     "*://*.primevideo.com/*",
     "*://*.amazon.com/gp/video/*",
-    "http://localhost:3000/*",
     "http://127.0.0.1:3000/*",
     "http://localhost:5173/*",
-    "http://127.0.0.1:5173/*"
+    "http://127.0.0.1:5173/*",
+    "https://sitcom-shuffle-app.vercel.app/*"
   ],
   "background": {
     "service_worker": "background.js"
@@ -49,7 +49,8 @@
         "http://localhost:3000/*",
         "http://127.0.0.1:3000/*",
         "http://localhost:5173/*",
-        "http://127.0.0.1:5173/*"
+        "http://127.0.0.1:5173/*",
+        "https://sitcom-shuffle-app.vercel.app/*"
       ],
       "js": ["local_bridge.js"],
       "run_at": "document_idle"
