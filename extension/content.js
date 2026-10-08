@@ -406,21 +406,25 @@ function checkDisneyEndCard() {
   }
 
   // 3. Fallback deep query across all shadow roots
-  const fallback = findDeep(
+  const fallbacks = findDeepAll(
     document,
     'button.end-card-overlay__content-tile, [data-qa="end-card-overlay.contentTile"], .end-card-overlay__body'
   );
-  if (fallback && isElementVisible(fallback)) {
-    return fallback;
+  for (const f of fallbacks) {
+    if (isElementVisible(f)) {
+      return f;
+    }
   }
 
   // 4. Generic Next buttons (Hulu merge UI)
-  const genericNext = findDeep(
+  const genericNexts = findDeepAll(
     document,
-    '[data-testid="up-next-button"], [data-testid*="up-next"], .up-next-button, [aria-label*="Next Episode" i], [aria-label*="Sonraki" i]'
+    '.up-next-countdown__container, [data-testid="up-next-dialog-button"], [data-testid="up-next-button"], [data-testid*="up-next"], .up-next-button, [aria-label*="Next Episode" i], [aria-label*="Sonraki" i]'
   );
-  if (genericNext && isElementVisible(genericNext)) {
-    return genericNext;
+  for (const next of genericNexts) {
+    if (isElementVisible(next)) {
+      return next;
+    }
   }
 
   return null;
