@@ -1,0 +1,2777 @@
+{
+  "Show:{\"videoId\":81662912}": {
+    "__typename": "Show",
+    "videoId": 81662912,
+    "title": "The Perfect Lie",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|04f7ee30-94fd-11f1-8a42-1286ac587e1d|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABZB9e3W9U1ScWuQpuqcE4XcrdxNLywkQEWxjL4BquJQ8eL0sxD6CcjxTaNvYx3RHywaoYtQ5ClgIxux_ZoQnFcMDZEcZFaL-310YywaG06zbOG0LaPzXNQVwQf88DdHED1BjfA.jpg?r=621",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81764523}": {
+    "__typename": "Show",
+    "videoId": 81764523,
+    "title": "Beauty in Black",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|214d2bc0-94f5-11f1-938e-1270c1ecc8f7|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTKWZPQTKTqHlEvdcBo-wD_ADbShZ6gwPE4owvY3rQmWT1myvcjoLncRefAEITOSdXtEddMxx_sBkOTm4R1jF6nlL4XUY4_1210Zqkv-RLKlmnS3TdjbWZIiqAMj3qumNmav3g.jpg?r=63e",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":80113612}": {
+    "__typename": "Show",
+    "videoId": 80113612,
+    "title": "Fauda",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|75cab6f1-8b2b-11f1-b128-0e5b7ef16f27|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABaCDLoRmm7-tqcPlNfWVuJ6teoWID7FnarNotwyLIYgOsygO-blhVhl8FvFUz8b47IHp0yQmLDU6ZsV0QQCeTz3fCxAffAY2_INGcPNs6rB9K_c39390zpfjXpbhZotSiQnvIw.jpg?r=0dc",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":80236318}": {
+    "__typename": "Show",
+    "videoId": 80236318,
+    "title": "Outer Banks",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|701f9cd0-80b2-11f1-9185-12760fd74ce5|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABRJX23EGn8ydYZ_1Z2r-a5JT7jZ303DOeHK9UBQJmojdRIDaTTxZ8KVeJ86hLcHfTE8v7-TG2urVN1migxqFwsVugv7ILzhGKk5jOn-jU-EzSB8XmaliIXXhF4bXV_1FXEul-A.jpg?r=279",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81426967}": {
+    "__typename": "Show",
+    "videoId": 81426967,
+    "title": "My Life With the Walter Boys",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|4214f4e0-69db-11f1-8e8d-0affd9b893b7|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABQyVSLPh7DK0kuxGJL1G62waYw8ZoPWnbRzs5mTEHCxBwoDUeaVtTMCPMtoTEM5n_dtaKCpHLvOy5Bl3qNyJV6Q22B0sjij-WLnNK0DzZHu6cFqb2IPDJ1ise3Vy5hoTr9RJUw.jpg?r=dbc",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":81278442}": {
+    "__typename": "Movie",
+    "videoId": 81278442,
+    "title": "The Whisper Man",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|3a9934d0-70fa-11f1-8f2c-0affdc6ecb13|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABRCpS4HRJD47l2IJI_1gDIuyJjcwDTNsg8Wo1kyvbXoPoj3rcsM5GNGATJt-1f6Ce6E9hmQ_x45KG7XPtmKwJ5Gk1N1rRz78wqA8E2N1sdr-sPshrEyeW3vJr9x9LMEYtK2AJA.jpg?r=649",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81991578}": {
+    "__typename": "Show",
+    "videoId": 81991578,
+    "title": "Crew Girl",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|bd06edd1-8799-11f1-a314-0ef6e36314d1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABe0oP9ZSfJYy1v0Zk4yRLMRcBYMQAmCeoHVFgNeS828u51KgzRFMx12fu58if2KMZUK1WlXDmvZzx31vRpMzKj3YEsorQ_CRN_2hTHUd8FcxtX-CVqGsJIL1ebnm5j3q0VY-QQ.jpg?r=6ca",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81989322}": {
+    "__typename": "Show",
+    "videoId": 81989322,
+    "title": "Death of the Pastor's Wife",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|579e2660-8ca9-11f1-a318-0affe7efd059|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABa8zwc0eNIm5tZZPqTwPaIHaivlL3RbaJ0AB99-kIOnFyNB3ZPvuYuAtjAuV9tzq0w7desqi4_lAPm-JSMuBEnl8MVn76-QBjf0--KNeY5USVA5_myfLJWbiUoH49oxC6GCJpA.jpg?r=bdf",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81509368}": {
+    "__typename": "Show",
+    "videoId": 81509368,
+    "title": "I Will Find You",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|c2b8b4a0-53ca-11f1-b1c6-0affe4c3cc51|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABYQxUnXwncsKx2-0OseYmO4GN83FZ6GUFjzcxp08iE3YzcmhDN_zm_cfPZKT8fPGSudig-CcIduXCl2C7kUUX3h5czH1HQWX5Hk0ONeOBbDDraJltKEznRH_I2tvDYD__-LYPw.jpg?r=c16",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":82130500}": {
+    "__typename": "Movie",
+    "videoId": 82130500,
+    "title": "Why Did I Get Married Again?",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|32b99330-7f06-11f1-ba87-0affffcadb5f|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUSnnQNdr2NIvsjS5dwXf3iwrCflIEB1ayayrFU7efngtgrNj9tR7QpKPGpoonBYsRTiIGHEKjltFz4iYu_WgYlqaz6d78kEBadEffVk9y5-NXybrU4nYT77dHaBnhirPEtYJQ.jpg?r=cc9",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Supplemental:{\"videoId\":81279953}": {
+    "__typename": "Supplemental",
+    "videoId": 81279953,
+    "playableVideo({\"request\":{\"encodingProfiles\":\"NODRM_H264MPL31_HEAAC_MP4\",\"prefersNonLetterBoxedVideo\":true}})": {
+      "__typename": "PlayableVideo",
+      "url": "https://occ-0-571-769.1.nflxso.net/so/soa3/453/2044111162391879169.mp4?v=1&e=1789209897&t=OKj_pPBH5pNL6agumBEgb4hZa7w"
+    },
+    "shortSynopsis": "",
+    "title": "Community: Season 1_hook_primary_16x9",
+    "availabilityStartTime": "2026-06-09T22:00:00.000Z",
+    "artwork({\"params\":{\"artworkType\":\"BILLBOARD\",\"dimension\":{\"width\":1280},\"features\":{\"fallbackStrategy\":\"STORY_ART\",\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "BILLBOARD|d7a5cef0-59d7-11ea-978d-0e58ee5eaa57|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXvekaNag2-SjZ5iSCoACiZPi-F_fjwIalMAJhmnBQFs0CRj5AnoSwqM6TlbXaPmEbhUe80J2VHQsEa720g2obZGuyvHs4aVRsRb.jpg?r=9c0",
+      "width": 1280,
+      "height": 720,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4814,
+        "y": 0.3898
+      }
+    },
+    "displayRuntimeMs": 103000
+  },
+  "PromoVideo:{\"id\":81279953}": {
+    "__typename": "PromoVideo",
+    "video": {
+      "__ref": "Supplemental:{\"videoId\":81279953}"
+    },
+    "id": 81279953
+  },
+  "Person:{\"personId\":30072420}": {
+    "__typename": "Person",
+    "personId": 30072420,
+    "name": "Joel McHale"
+  },
+  "Person:{\"personId\":30100756}": {
+    "__typename": "Person",
+    "personId": 30100756,
+    "name": "Gillian Jacobs"
+  },
+  "Person:{\"personId\":30122170}": {
+    "__typename": "Person",
+    "personId": 30122170,
+    "name": "Danny Pudi"
+  },
+  "Person:{\"personId\":20065886}": {
+    "__typename": "Person",
+    "personId": 20065886,
+    "name": "Yvette Nicole Brown"
+  },
+  "Person:{\"personId\":30117050}": {
+    "__typename": "Person",
+    "personId": 30117050,
+    "name": "Alison Brie"
+  },
+  "Person:{\"personId\":30108421}": {
+    "__typename": "Person",
+    "personId": 30108421,
+    "name": "Donald Glover"
+  },
+  "Person:{\"personId\":30045824}": {
+    "__typename": "Person",
+    "personId": 30045824,
+    "name": "Ken Jeong"
+  },
+  "Person:{\"personId\":16255}": {
+    "__typename": "Person",
+    "personId": 16255,
+    "name": "Chevy Chase"
+  },
+  "Person:{\"personId\":30024241}": {
+    "__typename": "Person",
+    "personId": 30024241,
+    "name": "Jim Rash"
+  },
+  "Person:{\"personId\":30141078}": {
+    "__typename": "Person",
+    "personId": 30141078,
+    "name": "Dan Harmon"
+  },
+  "Genre:{\"genreId\":1305630}": {
+    "__typename": "Genre",
+    "genreId": 1305630,
+    "name": "Comedies"
+  },
+  "Genre:{\"genreId\":10375}": {
+    "__typename": "Genre",
+    "title": "Comedy Series",
+    "genreId": 10375
+  },
+  "EntityTag:{\"id\":100060}": {
+    "__typename": "EntityTag",
+    "id": 100060,
+    "displayName": "Witty",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":81331731}": {
+    "__typename": "EntityTag",
+    "id": 81331731,
+    "displayName": "Comedy",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":81768069}": {
+    "__typename": "EntityTag",
+    "id": 81768069,
+    "displayName": "Sharp Dialogue",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":103891}": {
+    "__typename": "EntityTag",
+    "id": 103891,
+    "displayName": "College",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":100095}": {
+    "__typename": "EntityTag",
+    "id": 100095,
+    "displayName": "Critically Acclaimed",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":82006419}": {
+    "__typename": "EntityTag",
+    "id": 82006419,
+    "displayName": "Friendship",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":100183}": {
+    "__typename": "EntityTag",
+    "id": 100183,
+    "displayName": "Series",
+    "isDisplayable": true
+  },
+  "Show:{\"videoId\":80995819}": {
+    "__typename": "Show",
+    "videoId": 80995819,
+    "title": "Inside Job",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|7093e150-4b2b-11ed-8ec6-12afecc5f7a1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABRjqfD-CkrSFPUWY6fBshWqwVyNSrjZkukL0i9eHX__AKFwb0JjlCPbfCY_mf_tqqxo8-E5E2J57eTFeJQ3NymzJbwoLDrAMyHtVZp3T-VNGU4Jhr-J49ufVrI8WeEwat5KYeA.jpg?r=ec5",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81500842}": {
+    "__typename": "Show",
+    "videoId": 81500842,
+    "title": "Unstable",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|0e6015c0-28e3-11ef-8fd4-12178b5da2e9|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABYTh-d3WMMGTJ0wEga3XhBluk1XK5Zw3cwEziZ-hAD8M7TAcbjlLljkCuplwdKrv3a2X8Kpjt0P25mFSAK8w1o1YAJp_-jL3JYQSNtntNGA-l5Z5vt3gcMifRkVDZnNJc2fdgg.jpg?r=5fc",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":80117485}": {
+    "__typename": "Show",
+    "videoId": 80117485,
+    "title": "Friends from College",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|fcddfc90-1950-11f0-8b65-12cdd00ec2e9|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABWJINqirXhbmxvokeAZiJMMiROaVj6s7v74iZIAA_N5bmNDzqy1TpPtvgyc7HQ00ZyrvaGiK-0ZTRmT1lwhTcUfKAL1_jcoThUtrN2h7r1bvEP8qLUgFUnKAfkkFzEkMzRUQZQ.jpg?r=2cb",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81630704}": {
+    "__typename": "Show",
+    "videoId": 81630704,
+    "title": "Girls5eva",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|745d5a90-d109-11ee-8051-0e13aa845923|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABWC7fMu4hYuu5ps15LZxzx90KWpR8lqwFQHvbbX1gsmCSqb3uuRZ8gpwqQZJwOLdpDffKCxyElhc3rZuKrRvFTENucOcpB6zM1k_wM65Ox7BRnbdITkCIVzAqs5OrkjE41tt7A.jpg?r=3ec",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":70297085}": {
+    "__typename": "Movie",
+    "videoId": 70297085,
+    "title": "Neighbors",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|3a025b10-bbf6-11e5-99c7-12313d193d75|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABew6bgSCgoZlMoFJP69V_nTo4-FlPwrBgjzOtIOKrrw__aY0-B2swzIOtoumDsGChGHm6Hg1l3HSO2bU5SJp5ArVVUlQfv5mJiMC.jpg?r=cc9",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":81521988}": {
+    "__typename": "Movie",
+    "videoId": 81521988,
+    "title": "Little Brother",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|2a534c70-4966-11f1-8311-12b6ecadf3b7|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABZC__Czy8Gzksj2i75OvGP0JibZr5jClC0Rj4nngOhAcQmMtcd_AEgz_wZFDIhf8rHS-L9C19Wl2BntCnyvnZsW7ADpi1EwcXpm9dReDzisb99sJAY02p6uNcLlvPhu8XoJlhA.jpg?r=024",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":80095697}": {
+    "__typename": "Show",
+    "videoId": 80095697,
+    "title": "Disenchantment",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|63ca0e00-1613-11ee-a63b-0e2e520f1963|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABduiMQdEtZntK4dYyra6JEWlcAfSyvJp_aJmwG7idmzmfdLdxZeP9TUSfLgwB_yM5gZEr8vQMrDzFyt3jm7HYeMqdlpkWBNaNAIEjIT9RUy0sydDqU5_iQevDRx2BvRkKmx5dw.jpg?r=781",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":70300800}": {
+    "__typename": "Show",
+    "videoId": 70300800,
+    "title": "BoJack Horseman",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|1921bef0-22ad-11ea-a25f-0a79fb844809|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTmsYvrzRofEWp4W_wfXmZRMTZAIDzjJRhzmHXkTsyVzGqWbSkuomNdR_8kCWFG52pF5JZX79z3b8YpqIOxQH4xF9oOXx8dffFoH1vg2dj_6HuAWHxV_kau9TVGdy1flJC_4Pw.jpg?r=0e1",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81695311}": {
+    "__typename": "Show",
+    "videoId": 81695311,
+    "title": "The Hawk",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|5aa1fe60-5570-11f1-b1c6-0affdfff4ce7|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABYWc9bK0ozBuYkjx1A_0HPmOdTh_eWjmbg5X92r4JiVOurJwueN3u9oywJalBGinXLZ9KIPOLHHACTOtCvtn7GrO_OIc2fOvn7bd0bOOOlDWHCnnWG9h764wNEzmc5UCQz-6Ig.jpg?r=b59",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Genre:{\"genreId\":81746416}": {
+    "__typename": "Genre",
+    "name": "Comedy",
+    "genreId": 81746416
+  },
+  "Episode:{\"videoId\":70145806}": {
+    "__typename": "Episode",
+    "videoId": 70145806,
+    "title": "Community",
+    "runtimeSec": 1316,
+    "shortSynopsis": "When the legitimacy of his degree is challenged, lawyer Jeff Winger must return to school, where he meets a clan of misfit community college students.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|af15ad10-7129-11e6-9af0-12253e36c741|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABan5fDvK2X-adOJHRVBpN9mGN9DtPt1hvRiDDkoGO9ibqUWEhznjDkiyQiQEbquHQGLG253hhtyqA_NXqrhnoZ82cxT8P49OKcYYApEuRSfMebZEV2NwHbNH.jpg?r=4e9",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3083,
+        "y": 0.3111
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145807}": {
+    "__typename": "Episode",
+    "videoId": 70145807,
+    "title": "Spanish 101",
+    "runtimeSec": 1286,
+    "shortSynopsis": "While Jeff looks to use a Spanish class assignment to get close to Britta, Pierce has something altogether different in mind.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ab73a720-7129-11e6-9afa-0e6ca4f5c367|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABehcfKpUv2GXacyZqixPk1fMQwJBAaeWhvV4Z0waDQ1XPfGsvTRvi9hopI5KEB0WfEdduoUb1DszS8hEv596wBC0OJ6X7RfQrElOliHi8M02f54CO2qfpaqB.jpg?r=d9d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3703,
+        "y": 0.2806
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145808}": {
+    "__typename": "Episode",
+    "videoId": 70145808,
+    "title": "Introduction to Film",
+    "runtimeSec": 1287,
+    "shortSynopsis": "Jeff struggles to get a good grade, and Britta's offer to bankroll his film class exposes a rift between Abed and his angry father.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|a7e3a290-7129-11e6-9d5e-0aa2cd9f068f|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaWRDxfjSDRlbzbFeoUWnawNrzNtgtTE62fs1ZbgGZ3MDQuQ3WrOSz-fwRyJ7MifstkSOJHQ9r_vahSOJ_psjCj6_nvBVjSJ-LlTylHcETSuCzPR0KwtlCkp.jpg?r=37d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.274,
+        "y": 0.3269
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145809}": {
+    "__typename": "Episode",
+    "videoId": 70145809,
+    "title": "Social Psychology",
+    "runtimeSec": 1358,
+    "shortSynopsis": "As Annie recruits Abed and Troy for a psychology class experiment, Jeff and Shirley bond over their mutual fondness for gossip.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|a3a81bc0-7129-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfK_HRvfkZ60kgVeYOdQbTO-9RjOFTLFOexNKKC2Xg8HZkMlEQWbeXUFQvo4Z18ErzYg0Sc2RMcrWnsfcGX9d-b4gJetJbYoAT0jfp9jeSzVl9i8PK2fRBtT.jpg?r=48e",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.1698,
+        "y": 0.5
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145810}": {
+    "__typename": "Episode",
+    "videoId": 70145810,
+    "title": "Advanced Criminal Law",
+    "runtimeSec": 1285,
+    "shortSynopsis": "As Pierce volunteers to compose a new school song, a cheating episode in Spanish class leaves Jeff defending Britta before a disciplinary tribunal.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|a07a8280-7129-11e6-903c-0afeae59cde1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdUjVYrGiQx8m4f5VEQqxBM-IPRnkCJV6vhcNo2mgJK7IePMHyAskTeaJ1c7SniniDSWPMjZfXHPF9DJy1tNBkoG0kcrVRZD2QZXijycagVaaHUtOS8F5nUI.jpg?r=22c",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.1786,
+        "y": 0.5
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145811}": {
+    "__typename": "Episode",
+    "videoId": 70145811,
+    "title": "Football, Feminism and You",
+    "runtimeSec": 1286,
+    "shortSynopsis": "Annie's dream of being the ex-football star's girlfriend is in jeopardy when Jeff is blackmailed into getting Troy to join Greendale's football team.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|9851bbf0-7129-11e6-a78d-12f5a616b4ad|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdWCWFGE7VkKJc-xCa7aG2AgB5IqhDyG_ndX4O7vZe83Bg5--dlsefqc1sGjbRJkN5TLV_U5jWSYcwc63fZyeXrpRVVI-Wydm7x9ec7cZASjOcufF2m-Iu3m.jpg?r=7e3",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.35,
+        "y": 0.2574
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145812}": {
+    "__typename": "Episode",
+    "videoId": 70145812,
+    "title": "Introduction to Statistics",
+    "runtimeSec": 1284,
+    "shortSynopsis": "Jeff sets his sights on an attractive professor, and Annie looks to boost her social standing by hosting a Day of the Dead party.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|94d120b0-7129-11e6-8eca-0a8e07c788a1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRDgAFWx7dtpgMWS2gewBXKbmBIzvytZjkVELVgKx6QWRURqXz4cqAxQ86D3Jtaz5Uap56CO8PZQDuMaxzaFCgmFQD6w37XQa83fD2Ff2yOHdxcvoXSGES3z.jpg?r=8c5",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5927,
+        "y": 0.3389
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145813}": {
+    "__typename": "Episode",
+    "videoId": 70145813,
+    "title": "Home Economics",
+    "runtimeSec": 1283,
+    "shortSynopsis": "Jeff is forced out of his condo and into Abed's dorm room, and Annie looks to get Troy's attention by helping him plan a romantic picnic.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|9062ca10-7129-11e6-8eca-0a8e07c788a1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVW3qXea7pMbCXUG1dA59QU9VSUyrXv0XfeDhX7p8Lc-AsKljuplTc3YSab1mTm7IjAZ78jdmkTcaY_W6kmypK5QdCS1FrFck6FYRzdQDp8tNvv_WgcsjV93.jpg?r=0e5",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6203,
+        "y": 0.2519
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145814}": {
+    "__typename": "Episode",
+    "videoId": 70145814,
+    "title": "Debate 109",
+    "runtimeSec": 1284,
+    "shortSynopsis": "As Jeff is drafted to help lead Greendale's debate team against the formidable City College, Abed's film-class projects appear to predict the future.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|8cb02250-7129-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYAbZtaeH4eaBeB2wgHyUUQ5v9ihiq7k-TBt9bEa3qhJQqMuHmkq5qjyUo3Wcrozx9o2SCI1BlFP5n9SQknI5AQnKH1AqFmIMOm060RbHKGUmqNivcHIKLXD.jpg?r=c9f",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4578,
+        "y": 0.2398
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145815}": {
+    "__typename": "Episode",
+    "videoId": 70145815,
+    "title": "Environmental Science",
+    "runtimeSec": 1286,
+    "shortSynopsis": "Faced with an unreasonable amount of Spanish homework, Jeff's efforts to handle Se\u00c3\u00b1or Chang manage to help him but not the rest of the class.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|88c4de60-7129-11e6-9d5e-0aa2cd9f068f|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaeU3t_sNXRpIVOlud68GWhkikM0lmqB_vR2OajXRcNP5nl8Duzt24-XWmr5xygSWapvC045La90SGaVtVEmTuy1AAyBDXj0vBocSoIBbnWoD8rHoVTFVG3r.jpg?r=eb5",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3984,
+        "y": 0.1898
+      }
+    }
+  },
+  "Season:{\"videoId\":70123993}": {
+    "__typename": "Season",
+    "videoId": 70123993,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 1",
+    "shortTitle": "Season 1",
+    "title": "Season 1",
+    "totalDisplayRuntimeInSec": 32110,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145806}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145807}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145808}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145809}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145810}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145811}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145812}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145813}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145814}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145815}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145832}": {
+    "__typename": "Episode",
+    "videoId": 70145832,
+    "title": "Anthropology 101",
+    "runtimeSec": 1276,
+    "shortSynopsis": "When the semester starts, Jeff is stunned that his rejection of Britta has made her a campus star. Chang wants to be accepted into the study group.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|4a4cbe00-7129-11e6-9d5e-0aa2cd9f068f|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRukS9JytM13mZWm-QVsQVLOH1qs6S09E1ltKw6mkPJvV8ajDgUYSqi6iIY8gjW9f4aeIY2vnOd7hPkd-oMGalsVF3u54kYYHdwNuOi839Iqn4Gvgyvd26dO.jpg?r=9ae",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6969,
+        "y": 0.3343
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145834}": {
+    "__typename": "Episode",
+    "videoId": 70145834,
+    "title": "Accounting for Lawyers",
+    "runtimeSec": 1284,
+    "shortSynopsis": "When an old friend from Jeff's past appears unexpectedly, his friends discover that he was the one responsible for Jeff's disbarment.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|421e5220-7129-11e6-8eca-0a8e07c788a1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUw_IuzxCaGAm6fdUq4xY5F2pu2MucUkHOJ4MhdYtctfkfCqz1900GBXXpwXDFXsIzWqIDbU5MSnSTo1tBsC1luNIpYoksQO3gpHbuZPACeMmfMPfkT1hQzk.jpg?r=36b",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.401,
+        "y": 0.2898
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145833}": {
+    "__typename": "Episode",
+    "videoId": 70145833,
+    "title": "The Psychology of Letting Go",
+    "runtimeSec": 1285,
+    "shortSynopsis": "A death provokes a fierce debate about Pierce's religious beliefs. Britta and Annie are at odds over tactics in the Gulf oil spill fundraising drive.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|46c6a480-7129-11e6-9af0-12253e36c741|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUDynrwgCjeM9yiBOhvikDarmc00bIytg7B5W18yz9wPD4ipqFZmjPMhuF9Uci8lt7nW57vmR7j0pjO808xquGwA4sr9M8NXNivFX4VCCkEkjsYifufFL8jg.jpg?r=60d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4344,
+        "y": 0.713
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145835}": {
+    "__typename": "Episode",
+    "videoId": 70145835,
+    "title": "Basic Rocket Science",
+    "runtimeSec": 1281,
+    "shortSynopsis": "Jeff and the group must salvage an aging museum exhibit that Dean Pelton wants as the centerpiece of Greendale's proposed aerospace training program.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|3a658b70-7129-11e6-9afa-0e6ca4f5c367|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABStT7xHWsAC9BZ7snQ_Xl3zoisOsw_z-P0SMOrExySRoYLZEJ8sb5TzigOVPumSBrzI0AEMzHRqIlx9JVwmZPE9kikAALkmDnWvEC6bSs0Evb-X00wEGKjJA.jpg?r=d27",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.2016,
+        "y": 0.4
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145836}": {
+    "__typename": "Episode",
+    "videoId": 70145836,
+    "title": "Messianic Myths and Ancient Peoples",
+    "runtimeSec": 1269,
+    "shortSynopsis": "Shirley and Abed are at odds over his plan to direct and star in his own epic faith-based film.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|36fee0d0-7129-11e6-8eca-0a8e07c788a1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSlQN1KHpRJPYHBTtv866_rex6tvc3OCul0ASsNEc_23VXhb59Yybp4733Wanm-y3LvpxcoDr8yxhNPZ1J4a1tDWbBg1dPWzpgFSzoZlEkrP_98pHEa2bW3Y.jpg?r=57b",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4781,
+        "y": 0.4639
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145837}": {
+    "__typename": "Episode",
+    "videoId": 70145837,
+    "title": "Epidemiology",
+    "runtimeSec": 1285,
+    "shortSynopsis": "Dean Pelton's army-surplus party food sparks an outbreak of zombie-ism at the Greendale Halloween party.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|32a0b6d0-7129-11e6-b576-12a605806ab1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRxvpO9qew1Y46vQAOEb-gYiD17XzIVf9ygMUmsci9t6QzEc3e-fMuOgjjf_N0aghVkkcHt105K8H11jFjVx1Ckh6_vIuxrh3Z4gGJ1M8C9yF_Z6uJkCGzjq.jpg?r=ca5",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3099,
+        "y": 0.3519
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145838}": {
+    "__typename": "Episode",
+    "videoId": 70145838,
+    "title": "Aerodynamics of Gender",
+    "runtimeSec": 1282,
+    "shortSynopsis": "Abed endears himself to the girls after he offers to take down their enemies on campus. Jeff and Troy stumble onto a groundskeeper's secret paradise.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|2da0a780-7129-11e6-a6fc-0e2ab01e74a3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXmC5Jeywv2l3e0Zcaq5jd3JBw9_EJ3vlKl781RcsNhqW-Ds4i8GhO-3l5AOl_x9wlN35o8w5ynLSswPOUQO8JI5ZpGZZmNAyb6HmsUmECyiTUBi3-8qG_iH.jpg?r=f11",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6,
+        "y": 0.4583
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145839}": {
+    "__typename": "Episode",
+    "videoId": 70145839,
+    "title": "Cooperative Calligraphy",
+    "runtimeSec": 1281,
+    "shortSynopsis": "Annie's missing pen leads to friction within the group.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|27fa1f00-7129-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSltZSChrDRQ8YGw7iKGlz78NR5IEkXCRmEF7B2GETxdZdEqeNDVn8cVcwwhGHvS34vGyQiFigtiXm5l2OcS4I1oALnNq8Nc4pWPlEa12iOuAXgq0dyroXm5.jpg?r=edc",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3026,
+        "y": 0.4759
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145841}": {
+    "__typename": "Episode",
+    "videoId": 70145841,
+    "title": "Conspiracy Theories and Interior Design",
+    "runtimeSec": 1282,
+    "shortSynopsis": "When Jeff tries to obtain credit for a fictitious class, the unintended consequences rock Greendale. Abed and Troy build an elaborate blanket fort.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|2098a010-7129-11e6-8eca-0a8e07c788a1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZflamxAMhYjk8oF6ykhVHKP7NsZp6x56l4aYMlFz5o4ch9jI0nsO-xl-qfNz2LHZTb9swYY4-ExnGkHeLguQ6RH-dMSsc1aC3UDJr81FHcL5eo3UvRmf09v.jpg?r=184",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4995,
+        "y": 0.5
+      }
+    }
+  },
+  "Episode:{\"videoId\":70145840}": {
+    "__typename": "Episode",
+    "videoId": 70145840,
+    "title": "Mixology Certification",
+    "runtimeSec": 1249,
+    "shortSynopsis": "Troy's friends help him celebrate his 21st birthday.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|248bfa50-7129-11e6-9afa-0e6ca4f5c367|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABROG6bKszqmHCqVoqfVSzkd27XByNHtZHm3QHTrZ2XiwOAd8x7ByrYfTXcTizMI0KtYuHxzJaOInicLZ2P1V5M4ryhkj35zLMSRpAKrO_8dnDseHAnXOWAT2.jpg?r=c75",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5734,
+        "y": 0.3333
+      }
+    }
+  },
+  "Season:{\"videoId\":70145831}": {
+    "__typename": "Season",
+    "videoId": 70145831,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 2",
+    "shortTitle": "Season 2",
+    "title": "Season 2",
+    "totalDisplayRuntimeInSec": 30486,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145832}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145834}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145833}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145835}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145836}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145837}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145838}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145839}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145841}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70145840}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251220}": {
+    "__typename": "Episode",
+    "videoId": 70251220,
+    "title": "Biology 101",
+    "runtimeSec": 1291,
+    "shortSynopsis": "As Jeff tries to keep Pierce from rejoining the study group, Dean Pelton faces off with Vice Dean Laybourne for control of Greendale.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|e092fc40-7425-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYTTCpkdhNHRHJHLpTXqhVzQL-zg1aXaHWbk8qwmU45ka7ek0bjKJyrPcJyOhNr9jMx2XpbN1RUYZUEM6ytgKb8mvqMI7lWMg_aREgFqnJaVHKPWYnDU03mf.jpg?r=a9b",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5625,
+        "y": 0.3593
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251221}": {
+    "__typename": "Episode",
+    "videoId": 70251221,
+    "title": "Geography of Global Conflict",
+    "runtimeSec": 1290,
+    "shortSynopsis": "As Annie competes with an overachieving rival in a Model United Nations competition, Jeff wrestles with his feelings for his ambitious friend.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|df030d70-7425-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS8Yd32AZaV8B3N9tyh8wKESoyTB0CdeEWwlnRRnKrZrNmMKg1_ufl4gUQOi807M3ZVC-DidQpagtoP3vWkYTgSzlhOMW1b367bZo4IUKuat7vSlrPd2R3sB.jpg?r=673",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7495,
+        "y": 0.5028
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251222}": {
+    "__typename": "Episode",
+    "videoId": 70251222,
+    "title": "Competitive Ecology",
+    "runtimeSec": 1295,
+    "shortSynopsis": "The study group struggles to incorporate a fellow classmate while working on a project for professor Kane's class.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|dd96fa50-7425-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABayvnA9szTqXGH6FhE9pPjG14gaH4ISy20GsOs03-mmJMRz2Rs6uznIEOo2bXGyjvymKxc22XZQMWF9sILmYdiQJTXMH_A_TruP9K_if3qIQptMYYxyGAmIr.jpg?r=ea0",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3797,
+        "y": 0.2184
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251223}": {
+    "__typename": "Episode",
+    "videoId": 70251223,
+    "title": "Remedial Chaos Theory",
+    "runtimeSec": 1289,
+    "shortSynopsis": "When Jeff introduces an element of randomness into Troy and Abed's housewarming party, reality splits into six timelines.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|db920290-7425-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUPGXh6-6taSYnXqNFxGFbl5jCTth8nrA1Nqn1qPHFfAD3TRczFZdGI5jeHHuIpe7BW10j4gr6Iycqo2onn8Y2MwZa2V3YTJEwP4dFGDByKkY0nK3BMxzVI4.jpg?r=51c",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6167,
+        "y": 0.3074
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251224}": {
+    "__typename": "Episode",
+    "videoId": 70251224,
+    "title": "Horror Fiction in Seven Spooky Steps",
+    "runtimeSec": 1273,
+    "shortSynopsis": "When a personality test suggests that one group member is homicidal, they use a series of scary Halloween stories to expose the killer.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|da34bc80-7425-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZvdVTymi2BS8jkGgkOshY_fECBH4u5UZdBOghYPmr0AWUAZWBZsAaaM-IuOKQpOH14oG5_N6py36XURQwL53PS3MELJ3fOF_OZQeyyQrNR6nyhfvp6oPP0B.jpg?r=122",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5484,
+        "y": 0.2583
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251225}": {
+    "__typename": "Episode",
+    "videoId": 70251225,
+    "title": "Advanced Gay",
+    "runtimeSec": 1290,
+    "shortSynopsis": "When a drag queen's song makes Hawthorne Wipes an iconic gay product, Pierce embraces it, until his homophobic father shows up to squelch the idea.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d84a78b0-7425-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSbFpKP8h3GwhzmKv8fZGfYse7bYV60yIfMUXXboKMfQN8ZTnR2_N7r5u9-oIBiHX93YfwXEzzex0DfcINIqkINLxjYf8v6-pcCwFcny49JEhLY6YXUNASnq.jpg?r=bc7",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.2109,
+        "y": 0.5
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251226}": {
+    "__typename": "Episode",
+    "videoId": 70251226,
+    "title": "Studies in Modern Movement",
+    "runtimeSec": 1285,
+    "shortSynopsis": "Annie has second thoughts about moving in with Troy and Abed once she realizes that they expect her to live in a blanket fort.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d5cc3240-7425-11e6-a78d-12f5a616b4ad|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQeY4q5v_Ig8k6Rm9Ogfb5kVgmKgW0iEAcv8AaILXL_UAFCnWFQI4y7yMzi34vgn4vmqLMJwRuYr9sBR79gfHJN2l-Iaozw_Tk8FrIM8oB3uJzDTxqzHLmbM.jpg?r=fca",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5875,
+        "y": 0.1713
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251227}": {
+    "__typename": "Episode",
+    "videoId": 70251227,
+    "title": "Documentary Filmmaking: Redux",
+    "runtimeSec": 1293,
+    "shortSynopsis": "As Dean Pelton films a new commercial for Greendale, the production takes a wild turn once he discovers that a famous alum has agreed to appear in it.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d314da70-7425-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS_s7n4GFfpF8Jz7NlcpPpS8c3xcz6UJUBslYmmAWzhOEB0wuZyQCkjCH_bApRb-vA9cHppIr5hy6kkBj79SIr6DvEPju_FkJBqIQeShS-XVcG4KNA87YJKn.jpg?r=1b5",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.2094,
+        "y": 0.5037
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251228}": {
+    "__typename": "Episode",
+    "videoId": 70251228,
+    "title": "Foosball and Nocturnal Vigilantism",
+    "runtimeSec": 1289,
+    "shortSynopsis": "When Shirley agrees to coach Jeff in foosball, they realize that she bullied him mercilessly when they were kids.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d0d54ab0-7425-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSFmbxAU9Bmh1WPvJlyG_XbZlbRuv74ynIewcQl_66WAdxpEA3qeXx6BAEPqMGluvLYUDych5wgUJ5FpgQULY-2GvtW-vfxHiuq8pwJbNuttlkUTpvuDhP3-.jpg?r=b18",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4682,
+        "y": 0.3167
+      }
+    }
+  },
+  "Episode:{\"videoId\":70251229}": {
+    "__typename": "Episode",
+    "videoId": 70251229,
+    "title": "Regional Holiday Music",
+    "runtimeSec": 1284,
+    "shortSynopsis": "The study group is slowly convinced to fill in for the Glee Club at Greendale's Christmas pageant.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ce982bf0-7425-11e6-903c-0afeae59cde1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeCnb0McI5aRyDR6khOA_ZFnucueVxZLX1HQQ-ZVuQuvThsbaQfr8XddFPI9GqBSCvlfCCSKYYl-o92ssDTWoXthI1PTi5w5xK2M96EZyNn3TYdsPw3l3R5h.jpg?r=916",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4885,
+        "y": 0.3222
+      }
+    }
+  },
+  "Season:{\"videoId\":70190773}": {
+    "__typename": "Season",
+    "videoId": 70190773,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 3",
+    "shortTitle": "Season 3",
+    "title": "Season 3",
+    "totalDisplayRuntimeInSec": 28245,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251220}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251221}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251222}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251223}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251224}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251225}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251226}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251227}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251228}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70251229}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279008}": {
+    "__typename": "Episode",
+    "videoId": 70279008,
+    "title": "History 101",
+    "runtimeSec": 1295,
+    "shortSynopsis": "On the first day of senior year, Jeff reveals some news that might tear apart the study group. Meanwhile, Dean Pelton holds an elaborate competition.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|762e8860-73fd-11e6-91c0-0e7c5c1e84d5|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTHkXgWgV27CP0xhlkZZYk8D0LOOOdRZEVAwq_g421XNK5in-ZH8hqAgKqoTMq2u1ZzGduXde-iOzWPQzobXJhgJVf0qssn9mQamjTHqwTw0vEAepNDZ3IwA.jpg?r=96e",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6276,
+        "y": 0.3065
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279010}": {
+    "__typename": "Episode",
+    "videoId": 70279010,
+    "title": "Paranormal Parentage",
+    "runtimeSec": 1297,
+    "shortSynopsis": "As the study group tries to free Pierce from a panic room in his mansion, they begin to suspect the building is haunted.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|72539820-73fd-11e6-9af0-12253e36c741|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUREnrDIfGiJVyRQ9Q2om2Ud5oL4RxD1AQqbw6svHNafhbtGu6wDkCE7iuLRg4fO5r-eAR7AexuNJGtPqQRW2Np4c16wtWi5czjH9YNIjJfjyaYvsOAV9AxT.jpg?r=9ab",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7078,
+        "y": 0.2815
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279011}": {
+    "__typename": "Episode",
+    "videoId": 70279011,
+    "title": "Conventions of Space and Time",
+    "runtimeSec": 1299,
+    "shortSynopsis": "Troy worries about losing Abed to a fellow \"Inspector Spacetime\" fan at a convention for the show, while Annie fantasizes about being married to Jeff.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|709175c0-73fd-11e6-91c0-0e7c5c1e84d5|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXlPzhx0Ibrz0jVh93wVqAwNh5bBCRB9Katy92W_cWI-JUvcBhCBULuw6aukGZeECwgwsWRiXP4R6jq3Te1n-xfnA_EG_bMxfIoMZZcZyJJPZxV_VufEzHOW.jpg?r=870",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5927,
+        "y": 0.1935
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279009}": {
+    "__typename": "Episode",
+    "videoId": 70279009,
+    "title": "Alternative History of the German Invasion",
+    "runtimeSec": 1294,
+    "shortSynopsis": "The study group contends with a group of German students who take over the study room. Chang makes his return to campus.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|746428a0-73fd-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXN3WmMGvzAw1AS2QEi3CkNT5nMwMMW_Lsd-4TRrkP45oQAiPazls_0ftXj_tnzIzR73h_xOf9K6ZVAnUnuBbKNZfPWypXQQn49q5NY6CatzyZOL4xKCRfKK.jpg?r=a17",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3083,
+        "y": 0.212
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279012}": {
+    "__typename": "Episode",
+    "videoId": 70279012,
+    "title": "Cooperative Escapism in Familial Relations",
+    "runtimeSec": 1302,
+    "shortSynopsis": "Britta joins Jeff to see his estranged father on Thanksgiving. Shirley invites the rest of the group to spend the holiday with her judgmental in-laws.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|6f48f030-73fd-11e6-9afa-0e6ca4f5c367|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdgjX4D0iJFFrBartnhk6Ok_VDtbVzzyBhRIyZPVPLXDCyBS2PPwz8-7P4pLI2H7R2L486_iuRlY2SHhzzySA5obc2DoJYyK3PAeTK7i8j97jRfkVtJkNxQE.jpg?r=35f",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.2094,
+        "y": 0.3324
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279015}": {
+    "__typename": "Episode",
+    "videoId": 70279015,
+    "title": "Advanced Documentary Filmmaking",
+    "runtimeSec": 1300,
+    "shortSynopsis": "Abed films a documentary about Greendale coming together to get to the bottom of Chang's amnesia. Jeff, however, suspects the condition isn't real.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|6b425c10-73fd-11e6-91c0-0e7c5c1e84d5|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYeGtBw0mkuO2_f92Bv4YCl00DikJVH4YHGU8XGym02YDR81sB2K0_uTw9Kxth50nSRXNcARhK4Z9rFi6swAVa8uwxSBKW8O8mo3Yk7NXfMK4MMkAXQSd9H9.jpg?r=afd",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5172,
+        "y": 0.3704
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279013}": {
+    "__typename": "Episode",
+    "videoId": 70279013,
+    "title": "Economics of Marine Biology",
+    "runtimeSec": 1294,
+    "shortSynopsis": "Dean Pelton enlists the study group to beautify the campus to woo a wealthy student to Greendale. A class on teaching P.E. pits Shirley against Troy.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|6e0302b0-73fd-11e6-9d5e-0aa2cd9f068f|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeb6Dk1aCuqyHLxdKJ74TqrA2KPikcopN75p4JNiWhUVA230kym59hpSGYbNtFpfN_WEVm2deMr2IRJ1VLriC9d_m3vtYAZnllUnBt68jOchKS1cF9KCZg3O.jpg?r=07a",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7099,
+        "y": 0.2074
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279014}": {
+    "__typename": "Episode",
+    "videoId": 70279014,
+    "title": "Herstory of Dance",
+    "runtimeSec": 1300,
+    "shortSynopsis": "Jeff and Britta find themselves at odds over a women's empowerment dance event, while Abed imagines managing two dates in one night.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|6c613990-73fd-11e6-8eca-0a8e07c788a1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTzsNYbcv1j57aq7vnTIamQjEz5U-CGnC0s-d5OY0yttCRZ2jgw7-DjJ0WVNjy10YS1QhqLWp6nnUfcCA62K5QWV-rTyjBK8uRzxVkn9xE3b146CzESZ_KnD.jpg?r=13c",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.649,
+        "y": 0.3139
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279020}": {
+    "__typename": "Episode",
+    "videoId": 70279020,
+    "title": "Intro to Felt Surrogacy",
+    "runtimeSec": 1251,
+    "shortSynopsis": "Dean Pelton prompts the study group to use puppets to relive the traumatic events of a recent adventure.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|64a4f070-73fd-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUyjxzqz0uEeW5wCI4yZa9Yon-TtprXdvHpXrBPmYv3u9y-hmQqjBcZF5MjHS6SYqjHX00MxZtmbFTGhEJqaAlWJ3iII4DQ6G828EaNi603OqFUHnOic5FY0.jpg?r=85b",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7651,
+        "y": 0.2676
+      }
+    }
+  },
+  "Episode:{\"videoId\":70279016}": {
+    "__typename": "Episode",
+    "videoId": 70279016,
+    "title": "Intro to Knots",
+    "runtimeSec": 1299,
+    "shortSynopsis": "Jeff organizes a lovely holiday gathering at his apartment, but Annie secretly invites professor Cornwallis to get in his good graces.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|6a252c40-73fd-11e6-a78d-12f5a616b4ad|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUVjNKnn8YrQ7ot5gA0d8AzRc6oOVh_pIU502TtitB2OpeYvqjstkYjeRcofhTdCUdNYkXGRes04YXY-9fEf0CleyOrc6vaLy5vb-MpggBtt5iKrQXVtOUTk.jpg?r=91d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6578,
+        "y": 0.1963
+      }
+    }
+  },
+  "Season:{\"videoId\":70242039}": {
+    "__typename": "Season",
+    "videoId": 70242039,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 4",
+    "shortTitle": "Season 4",
+    "title": "Season 4",
+    "totalDisplayRuntimeInSec": 16832,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279008}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279010}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279011}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279009}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279012}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279015}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279013}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279014}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279020}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":70279016}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033503}": {
+    "__typename": "Episode",
+    "videoId": 80033503,
+    "title": "Repilot",
+    "runtimeSec": 1300,
+    "shortSynopsis": "With his law practice doomed, Jeff returns to Greendale to start a class action suit against the school, but a hologram of Pierce has him reconsider.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|c40352d0-7332-11e6-9d5e-0aa2cd9f068f|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQzZImqwDVcjP2JWsiqg-yDweZeNKIqX2A4MgvU5C0sp6xo3fTPMSbXrIB6QBCHWEqH6AlFjdcrQ-OX1ESlXLSdij6sfi2aPcBQNF0_cDZqR3a1RQpefVH2T.jpg?r=39d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4151,
+        "y": 0.1731
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033504}": {
+    "__typename": "Episode",
+    "videoId": 80033504,
+    "title": "Introduction to Teaching",
+    "runtimeSec": 1298,
+    "shortSynopsis": "Abed tackles a two-day crash course on Nicolas Cage, while a clueless Jeff begins his teaching career with Annie as his most demanding student.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|831b8ee0-774c-11e6-ad17-0a5950d6bba5|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbRwWAJ9-0VtMPql0of6jEaDfZWlUDnYas4RjH2rFVmS9UFa09wUCXgnQoQa9n5E2Jd4VTzdFAVz7JMkX6gEy2DbFPkTGpCoWto04t8rznWfIzAUTQFN0ycm.jpg?r=99d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.437,
+        "y": 0.3333
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033505}": {
+    "__typename": "Episode",
+    "videoId": 80033505,
+    "title": "Basic Intergluteal Numismatics",
+    "runtimeSec": 1294,
+    "shortSynopsis": "With a mysterious prankster back at Greendale, Annie and Jeff are on the case. As clues and suspicions mount, Shirley delivers shocking news.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|bec6afb0-7332-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUnwWet6uODXYUDZPVXKhgvOiOzWRT557cCJIJ1WV06jijWBSlDEwaKM738gZp-_Hfl_-Fbq5-I-T_Dp26A_79alaW93h_vfAeCJwuVAlxZ0uWA9iUhQnUXb.jpg?r=b59",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6042,
+        "y": 0.3167
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033506}": {
+    "__typename": "Episode",
+    "videoId": 80033506,
+    "title": "Cooperative Polygraphy",
+    "runtimeSec": 1242,
+    "shortSynopsis": "Pierce's funeral leaves the study group with mixed feelings, especially after their late tormentor leaves one last test to reveal everyone's secrets.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|81df8c70-774c-11e6-9bbe-0e6b5a566dd7|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbI-6tP7O72V9WMMdVt2QedDM1SEaQN3BPECh3zGggLuC6O7MhB8Ehghd4UANfnvAn-grDRIDstaPmdPMhZBYj6p50YGAJCdy26o02WpUqB9sKnRiD-2eKq3.jpg?r=bbf",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4958,
+        "y": 0.3093
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033507}": {
+    "__typename": "Episode",
+    "videoId": 80033507,
+    "title": "Geothermal Escapism",
+    "runtimeSec": 1299,
+    "shortSynopsis": "For Troy's last day at Greendale, Abed holds a campus-wide \"hot lava\" fantasy game. With a comic book worth $50,000 as the prize, it's an all-out war.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ba709c00-7332-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRirWWDM-5qPqwed75C7h7m2zBWdb-mijETVUyVRYYxQOd16uzdrHS9z11VuwUm6_4vU4qEOeTQbCs0iCpgNzZD7i4AlOXj_pJKXb7hw4zvstf0OH7E3jIvP.jpg?r=438",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6589,
+        "y": 0.2398
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033508}": {
+    "__typename": "Episode",
+    "videoId": 80033508,
+    "title": "Analysis of Cork-Based Networking",
+    "runtimeSec": 1301,
+    "shortSynopsis": "While Annie and Hickey's fight to get a bulletin board repaired spirals out of control, Abed and Britta go to war over spoilers of his favorite show.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|806ff6e0-774c-11e6-b30f-12771f1514eb|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSQ2eXJET2veOB0aP-KeEmdax4MypG-pIUaSs3wqS_96EV9QIMUwHwzcdS7gEDk54gnWQAu2RkXt3DuMZHKeDBj2eATSYrn7_DO__Msgb0F8sHuclCiw2IKr.jpg?r=4cb",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6464,
+        "y": 0.3176
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033509}": {
+    "__typename": "Episode",
+    "videoId": 80033509,
+    "title": "Bondage and Beta Male Sexuality",
+    "runtimeSec": 1299,
+    "shortSynopsis": "Jeff counsels a smitten Duncan on how to get a date with Britta but is developing feelings of his own. An angry Hickey tries to teach Abed a lesson.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|b76a39d0-7332-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYpLDZzDshr5T3YALOO2vaYYc1d5itP40WmF2hs8x5oiGeATcrOinbQaL-e5ojHfP90TYrOZ_qVAHRTlZUsZ7M_O43w--F8EYoPG6hzPvshE13h6fjcD0MtB.jpg?r=52d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4979,
+        "y": 0.4287
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033510}": {
+    "__typename": "Episode",
+    "videoId": 80033510,
+    "title": "App Development and Condiments",
+    "runtimeSec": 1301,
+    "shortSynopsis": "A new caste system takes over when Greendale beta tests an app that ranks everyone. Shirley loves her new status, but Jeff and Britta want it stopped.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|b59097d0-7332-11e6-b576-12a605806ab1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWf_rzTx4YiAv0odOCC8o-X10w9nRz4U2cp9E59VgzY9yG4qh_3_N-d8kMdyQZK9RFpluXoGRC6f58pQ_FBpQltLSJ9YalUWRhhOo59wGXF4phFvbxKvIsx6.jpg?r=ced",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.426,
+        "y": 0.1833
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033511}": {
+    "__typename": "Episode",
+    "videoId": 80033511,
+    "title": "VCR Maintenance and Educational Publishing",
+    "runtimeSec": 1300,
+    "shortSynopsis": "Abed and Annie try to solve their new roommate dilemma with a retro VCR game, while Jeff, Shirley and Hickey hatch a plan to sell stolen textbooks.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|b44b4690-7332-11e6-9d5e-0aa2cd9f068f|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQTm9q95nl3fbVKle2G5gcBPx0Sa6F7l-rgzMzyqwpzLIWOQj-qnqVV3tUGxK6d6eaZHyHzVwR6CZ-dHuld4WqlwDc1p80cW-ItrDZuh4a6bynuEhrFFoOtu.jpg?r=15e",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7057,
+        "y": 0.3343
+      }
+    }
+  },
+  "Episode:{\"videoId\":80033512}": {
+    "__typename": "Episode",
+    "videoId": 80033512,
+    "title": "Advanced Advanced Dungeons & Dragons",
+    "runtimeSec": 1300,
+    "shortSynopsis": "To help Hickey be a more involved grandfather, which means patching up a bad relationship with his son, the gang creates an epic role-playing game.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|b2bba5e0-7332-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSAV7ZRX2B6U_Tj3qHnUk0pA4kUAY0V7LHKdoI_2euxSH8cyqZ1SaPubnC32JPCAv4pj1Wx6J1JODW9ukvlltl2vXqksTniqMpC66zAe9YZA2Lx_CxPAE_CN.jpg?r=9fb",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6234,
+        "y": 0.8241
+      }
+    }
+  },
+  "Season:{\"videoId\":70281308}": {
+    "__typename": "Season",
+    "videoId": 70281308,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 5",
+    "shortTitle": "Season 5",
+    "title": "Season 5",
+    "totalDisplayRuntimeInSec": 16784,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033503}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033504}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033505}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033506}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033507}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033508}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033509}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033510}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033511}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80033512}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247511}": {
+    "__typename": "Episode",
+    "videoId": 81247511,
+    "title": "Ladders",
+    "runtimeSec": 1655,
+    "shortSynopsis": "New administrative consultant Frankie's strict \u00e2\u0080\u0094 and sobering \u00e2\u0080\u0094 changes split the group when Abed goes rogue to side with the enemy.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|228c52f0-8416-11ea-9674-0af72db1ad35|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTL_yPt-4CwH4_ElxPT5e6JpXNFCp2RpiuxCLj6th95ID_enrwSRE4lofG03cxBLRsN9pGStg0YGyJuyK0cO_22Ll_eE9Pc62fpvXMGesQw3jngId4OgbFOq.jpg?r=9d1",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6146,
+        "y": 0.0787
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247510}": {
+    "__typename": "Episode",
+    "videoId": 81247510,
+    "title": "Lawnmower Maintenance & Postnatal Care",
+    "runtimeSec": 1625,
+    "shortSynopsis": "When Dean Pelton loses himself \u00e2\u0080\u0094 and a chunk of the college budget \u00e2\u0080\u0094 in a virtual reality system, Jeff seeks help from its cantankerous inventor.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|44531030-8417-11ea-9ee3-120468d63594|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTQRIhVO1FVQqg4P0weJ2eWlG5ZxEG1_cQYMnODYWWPh11djA9wJr2kwNpPGR8VD7916LHOyZP8esG6CoRKJx4e-zXxqbnhYlZmOZnz-6oH-IndaLDUyZX8A.jpg?r=e1c",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5141,
+        "y": 0.3667
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247514}": {
+    "__typename": "Episode",
+    "videoId": 81247514,
+    "title": "Basic Crisis Room Decorum",
+    "runtimeSec": 1481,
+    "shortSynopsis": "A rival's attack ad puts the group into defensive mode \u00e2\u0080\u0094 and a moral quandary. Britta and Chang find new ways to gross everyone out.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|4ea8ac60-8418-11ea-b992-0a6908e3492b|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUR2Zg1b-qyTd2PYpj_1YzF0coxu-JNdDDy9G83W0N9HoGxGsbaR9sGn30gHP-va6oJnvQiLJUrIDFjFIiWm9pnMh6_eV_XQ_12lQgAQs0Rx9qW7FP0bEFkL.jpg?r=5ed",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3635,
+        "y": 0.3528
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247512}": {
+    "__typename": "Episode",
+    "videoId": 81247512,
+    "title": "Queer Studies & Advanced Waxing",
+    "runtimeSec": 1860,
+    "shortSynopsis": "Dean Pelton's sexuality gives him an uncomfortable edge for a school board seat. Chang scores a surprise win in a stage adaptation of \"The Karate Kid.\"",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|8cedb960-8419-11ea-a91a-0ac96c26c7af|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfW2FncGxsETnJe4412Peyh-imUmnnEsPILcD7_gFxS-NjY_NnC3e9X0zV2Jpwslw1U8BGzhBtN-SFh6x6UkmgfqYtGPPoiXsUc7Y39nX3b14SWf0Ypx7EEi.jpg?r=522",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3443,
+        "y": 0.4093
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247513}": {
+    "__typename": "Episode",
+    "videoId": 81247513,
+    "title": "Laws of Robotics & Party Rights",
+    "runtimeSec": 1724,
+    "shortSynopsis": "When prisoners roll into Greendale via telerobot, Jeff meets his match in a clever convict. Britta's plans for a raging house party backfire.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|beea3e60-841a-11ea-bfef-0e4fb987f78f|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUS65ZIP02CfkBuEZ9GmWGVxgQ86XXVuiAfiM7Rv7uF3Zx4NqCE7ERi0LnlSziiChAPds1AC_3pLnSIREu0tlAAi0Yrw3N9hOKK7fzqT_7qI2Kk41p07vORP.jpg?r=f9c",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3172,
+        "y": 0.3259
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247515}": {
+    "__typename": "Episode",
+    "videoId": 81247515,
+    "title": "Basic Email Security",
+    "runtimeSec": 1693,
+    "shortSynopsis": "A hacker angry over a racist comic's planned campus performance threatens to publish the activity committee's personal emails.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d2231780-841b-11ea-a6fa-0a1413f5bcd3|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABa_UPGt_3AcJL-O0X_1yhhqtEw_GOjhQC5U6VGop-ZUvvX3ArtQ5ambSALhYzviiaC0Y5uAxme8MOekbYOaP6KNcZij53YV00PFZBtvfm3bL7QUwTfGRFpEG.jpg?r=def",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.351,
+        "y": 0.1556
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247516}": {
+    "__typename": "Episode",
+    "videoId": 81247516,
+    "title": "Advanced Safety Feature",
+    "runtimeSec": 1715,
+    "shortSynopsis": "Britta's ex-boyfriend Rick returns, reigniting her far-fetched dreams of a normal relationship. Annie goes to extremes to win Elroy over.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ee7c3690-841c-11ea-b567-12ab162b4151|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcOC5jQFZYgEIcF_aovQqXjRKLSBi2t8Mi_l8y3cZlH47TiFDWzLfmNZ2JDTwVbFxgJ_godbn2gBPdxN6oDbdMcybZ9TlvUloSMYl2v_gk0og1bVqbQNs-qh.jpg?r=317",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.475,
+        "y": 0.25
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247517}": {
+    "__typename": "Episode",
+    "videoId": 81247517,
+    "title": "Intro to Recycled Cinema",
+    "runtimeSec": 1709,
+    "shortSynopsis": "A commercial catchphrase catapults Chang to viral fame and a life-changing move. The group bands together to make movie magic for Abed.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|1187e830-8424-11ea-8e8d-120e6fc2a70d|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY_VkhzkuKql-gCSr1PlS8D89Wzgn34YYypugtUdd1cdpoy8zM8Ra24ELeT-zr_SL_s2e9cyl9QE2kMlgqJFpYXiOJ02WaD8ZrqgQ0x5hZ8qeTe21Dsag4qS.jpg?r=88f",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4854,
+        "y": 0.2741
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247518}": {
+    "__typename": "Episode",
+    "videoId": 81247518,
+    "title": "Grifting 101",
+    "runtimeSec": 1734,
+    "shortSynopsis": "Visiting professor DeSalvo gives Jeff and his friends a master class in grifting and a bonus lesson on the art of revenge.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|741b8f70-841e-11ea-92f2-12678ca6f243|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABd_rfYnWmyqRTepKPallsztB5nXG1R3p3KX4GJKtavg1MIHfdM5iFnSgGtcjc52eT-Rr_ycBjvGgP9rimo7A9kVBRBUksb5F0GOyPhk1TFFXCPUomscIX86E.jpg?r=5b4",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4068,
+        "y": 0.2444
+      }
+    }
+  },
+  "Episode:{\"videoId\":81247519}": {
+    "__typename": "Episode",
+    "videoId": 81247519,
+    "title": "Basic RV Repair & Palmistry",
+    "runtimeSec": 1575,
+    "shortSynopsis": "A 19-foot plaster hand guides the group on an emotional journey as they travel through mountains and flashbacks while aboard Elroy's RV.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|eb07f330-8423-11ea-9d79-1200154200d1|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRHgqbzByvjZbFEtX8V6wt70LDLNzaE0scxY2CSoYrMMQF8xAydexmZpCa7AuC1PV2UtiulPlU4lXo66dHx7hRlOMF33anu-0_XBvJH61slJHOQwi3KsdAYk.jpg?r=9e7",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5958,
+        "y": 0.3546
+      }
+    }
+  },
+  "Season:{\"videoId\":80039648}": {
+    "__typename": "Season",
+    "videoId": 80039648,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 6",
+    "shortTitle": "Season 6",
+    "title": "Season 6",
+    "totalDisplayRuntimeInSec": 21702,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247511}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247510}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247514}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247512}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247513}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247515}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247516}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247517}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247518}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81247519}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Show:{\"videoId\":70155589}": {
+    "__typename": "Show",
+    "videoId": 70155589,
+    "title": "Community",
+    "shortSynopsis": "After his bachelor's degree is revoked, lawyer Jeff Winger returns to community college, where he forms a study group with a few oddballs.",
+    "hasOriginalTreatment": false,
+    "artwork({\"params\":{\"artworkType\":\"BILLBOARD\",\"dimension\":{\"width\":1280},\"features\":{\"fallbackStrategy\":\"STORY_ART\",\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "BILLBOARD|d7a5cef0-59d7-11ea-978d-0e58ee5eaa57|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXvekaNag2-SjZ5iSCoACiZPi-F_fjwIalMAJhmnBQFs0CRj5AnoSwqM6TlbXaPmEbhUe80J2VHQsEa720g2obZGuyvHs4aVRsRb.jpg?r=9c0",
+      "width": 1280,
+      "height": 720,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4814,
+        "y": 0.3898
+      }
+    },
+    "promoVideo({\"context\":{\"uiContext\":\"BILLBOARD\"}})": {
+      "__ref": "PromoVideo:{\"id\":81279953}"
+    },
+    "availabilityStartTime": "2026-06-23T22:00:00.000Z",
+    "persons:{\"roles\":\"ACTOR\"}": {
+      "totalCount": 0,
+      "__typename": "PersonConnection",
+      "edges": [
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30072420}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30100756}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30122170}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":20065886}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30117050}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30108421}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30045824}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":16255}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30024241}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "persons:{\"roles\":\"DIRECTOR\"}": {
+      "totalCount": 0,
+      "__typename": "PersonConnection",
+      "edges": [],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "persons:{\"roles\":\"CREATOR\"}": {
+      "totalCount": 0,
+      "__typename": "PersonConnection",
+      "edges": [
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30141078}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "coreGenres": {
+      "__typename": "GenreConnection",
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "__typename": "GenreEdge",
+          "node": {
+            "__ref": "Genre:{\"genreId\":1305630}"
+          }
+        }
+      ]
+    },
+    "contentAdvisory": {
+      "__typename": "ContentAdvisory",
+      "certificationValue": "9"
+    },
+    "latestYear": 2015,
+    "seasons": {
+      "totalCount": 6,
+      "__typename": "SeasonsConnection",
+      "edges": [
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":70123993}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":70145831}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":70190773}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":70242039}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":70281308}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":80039648}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "supplementalVideosList:{\"types\":[\"TRAILER\",\"TEASER_TRAILER\"]}": {
+      "totalCount": 0,
+      "__typename": "SupplementalsConnection",
+      "edges": [],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "genres": {
+      "totalCount": 0,
+      "__typename": "GenreConnection",
+      "edges": [
+        {
+          "__typename": "GenreEdge",
+          "node": {
+            "__ref": "Genre:{\"genreId\":10375}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "isAvailableForDownload": true,
+    "tags": [
+      {
+        "__ref": "EntityTag:{\"id\":100060}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":81331731}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":81768069}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":103891}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":100095}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":82006419}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":100183}"
+      }
+    ],
+    "tudumTitle": null,
+    "mediaTracks": {
+      "__typename": "MediaTracks",
+      "audioTracks": [
+        {
+          "__typename": "AudioTrack",
+          "language": "German"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "English - Audio Description"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "English [Original]"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "Spanish (Spain)"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "French"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "Turkish"
+        }
+      ],
+      "subtitles": [
+        {
+          "__typename": "TimedTextTrack",
+          "language": "German"
+        },
+        {
+          "__typename": "TimedTextTrack",
+          "language": "English"
+        },
+        {
+          "__typename": "TimedTextTrack",
+          "language": "Spanish (Spain)"
+        },
+        {
+          "__typename": "TimedTextTrack",
+          "language": "French"
+        },
+        {
+          "__typename": "TimedTextTrack",
+          "language": "Dutch"
+        }
+      ]
+    },
+    "taglineMessages({\"taglineRequest\":{\"supportsMessageBadging\":true,\"typedUiContext\":\"LOGGED_OUT_DP\"}})": [
+      {
+        "__typename": "TaglineMessage",
+        "tagline": "",
+        "badgePrefix": null,
+        "renderCountdownTimer": false
+      }
+    ],
+    "allTaglineMessagesByEventState({\"supportedCapabilities\":{\"canHandleLiveEventState\":true},\"taglineRequest\":{\"supportsMessageBadging\":true,\"typedUiContext\":\"LOGGED_OUT_DP\"}})": null,
+    "nextEventWindow": null,
+    "artwork({\"params\":{\"artworkType\":\"LOGO_HORIZONTAL_CROPPED\",\"dimension\":{\"width\":350},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "LOGO_HORIZONTAL_CROPPED|99d38211-8eab-11ec-b8bd-12f7588daf97|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABT2HMmh2KQRQ2O4bxPi5xDrZ42K3sbD-3eEicM4cP2kwg3hG8lNlJV6XDLjA4sZaJxboMu8VYHP0vr9DinFoBt0nqTyvVC16Iw.png?r=18c",
+      "width": 333,
+      "height": 46,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    },
+    "artwork({\"params\":{\"artworkType\":\"BRAND_LOGO_CROPPED\",\"dimension\":{\"height\":48},\"features\":{\"nonMemberBranding\":true,\"tone\":\"LIGHT\"},\"format\":\"PNG\"}})": null,
+    "isAvailable": true,
+    "nextLiveEvent": null,
+    "allTaglineMessagesByEventState({\"supportedCapabilities\":{\"canHandleLiveEventState\":false},\"taglineRequest\":{\"supportsMessageBadging\":true,\"typedUiContext\":\"EPISODE_LIST\"}})": null,
+    "artwork({\"params\":{\"artworkType\":\"ECLIPSE_BILLBOARD_REDUX\",\"dimension\":{\"width\":1920},\"features\":{\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "ECLIPSE_BILLBOARD_REDUX,BILLBOARD|d7a5cef0-59d7-11ea-978d-0e58ee5eaa57|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABXihXFd1GBPxd9WRuS0nyeEqMesUnm5hb5piO6RqDFrIk8UlHA5Mk6KYpr9j8JM1hNcWl7hgxmqXCBbLZxHrP0TIwM1YUStB_ihFQaykXMK7GhAiWXY_mqCmEQ.jpg?r=9c0",
+      "width": 1920,
+      "height": 878,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4814,
+        "y": 0.3898
+      }
+    },
+    "artwork({\"params\":{\"artworkType\":\"ECLIPSE_BILLBOARD_REDUX\",\"dimension\":{\"width\":1280},\"features\":{\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "ECLIPSE_BILLBOARD_REDUX,BILLBOARD|d7a5cef0-59d7-11ea-978d-0e58ee5eaa57|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABav01q7LPPEz0AOra1m1igrDdvr7Na9CutfrNNXup4nGqxMTaErHW84LquhHSeOObgnjyIskfwGNqyG7kPIA8J3QdPBxQ0htXahSI_E4VeB2_eCsucU6c34DRw.jpg?r=9c0",
+      "width": 1280,
+      "height": 585,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4814,
+        "y": 0.3898
+      }
+    },
+    "artwork({\"params\":{\"artworkType\":\"BILLBOARD\",\"dimension\":{\"width\":960},\"features\":{\"fallbackStrategy\":\"STORY_ART\",\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "BILLBOARD|d7a5cef0-59d7-11ea-978d-0e58ee5eaa57|en",
+      "url": "https://occ-0-571-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfhh4IoDbMEmiNqxkm51JXyeIcq6Y_Rj9g00ZXhRhpWtDpFNlEES4gEApBZ_WXPmndpSB4m0--CZTl91HM3NLP2ELKo9fDEex68K.jpg?r=9c0",
+      "width": 992,
+      "height": 559,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4814,
+        "y": 0.3898
+      }
+    },
+    "taglineMessages({\"taglineRequest\":{\"typedUiContext\":\"ODP\"}})": [
+      {
+        "__typename": "TaglineMessage",
+        "tagline": "",
+        "typedClassification": "REGULAR"
+      }
+    ],
+    "similarVideos": [
+      {
+        "__ref": "Show:{\"videoId\":80995819}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":81500842}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":80117485}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":81630704}"
+      },
+      {
+        "__ref": "Movie:{\"videoId\":70297085}"
+      },
+      {
+        "__ref": "Movie:{\"videoId\":81521988}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":80095697}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":70300800}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":81695311}"
+      }
+    ],
+    "numSeasonsLabel": "6 Seasons",
+    "primaryGenres": {
+      "__typename": "GenreConnection",
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "__typename": "GenreEdge",
+          "node": {
+            "__ref": "Genre:{\"genreId\":81746416}"
+          }
+        }
+      ]
+    },
+    "contentWarning": null,
+    "supplementalVideosList:{\"uiContext\":\"CLIPS\"}": {
+      "totalCount": 0,
+      "__typename": "SupplementalsConnection",
+      "edges": [],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "ROOT_QUERY": {
+    "__typename": "Query",
+    "growthVideoCollections({\"collectionsInput\":{\"collectionInputs\":[{\"collectionType\":\"TRENDING_NOW\",\"limit\":10}]}})": {
+      "__typename": "GrowthVideoCollections",
+      "collections": [
+        {
+          "__typename": "GrowthVideoCollection",
+          "videos": [
+            {
+              "__ref": "Show:{\"videoId\":81662912}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81764523}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":80113612}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":80236318}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81426967}"
+            },
+            {
+              "__ref": "Movie:{\"videoId\":81278442}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81991578}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81989322}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81509368}"
+            },
+            {
+              "__ref": "Movie:{\"videoId\":82130500}"
+            }
+          ]
+        }
+      ]
+    },
+    "videos": {
+      "70155589": {
+        "__ref": "Show:{\"videoId\":70155589}"
+      }
+    },
+    "growthPlans": {
+      "__typename": "GrowthPlans",
+      "plans": [
+        {
+          "__typename": "GrowthPlan",
+          "planId": "4001",
+          "price": {
+            "__typename": "GrowthPrice",
+            "priceInCents": 999,
+            "priceFormatted": "\u00e2\u0082\u00ac9.99",
+            "priceTier": "GLOBAL_TIER2510"
+          },
+          "name": "Basic",
+          "tag": null,
+          "attributes": {
+            "__typename": "GrowthPlanAttributes",
+            "videoQuality": "HD720P",
+            "audioQuality": "NORMAL",
+            "hasAds": false
+          }
+        },
+        {
+          "__typename": "GrowthPlan",
+          "planId": "3088",
+          "price": {
+            "__typename": "GrowthPrice",
+            "priceInCents": 1599,
+            "priceFormatted": "\u00e2\u0082\u00ac15.99",
+            "priceTier": "GLOBAL_TIER2510"
+          },
+          "name": "Standard",
+          "tag": null,
+          "attributes": {
+            "__typename": "GrowthPlanAttributes",
+            "videoQuality": "HD",
+            "audioQuality": "NORMAL",
+            "hasAds": false
+          }
+        },
+        {
+          "__typename": "GrowthPlan",
+          "planId": "3108",
+          "price": {
+            "__typename": "GrowthPrice",
+            "priceInCents": 2099,
+            "priceFormatted": "\u00e2\u0082\u00ac20.99",
+            "priceTier": "GLOBAL_TIER2510"
+          },
+          "name": "Premium",
+          "tag": "MOST_POPULAR",
+          "attributes": {
+            "__typename": "GrowthPlanAttributes",
+            "videoQuality": "UHD",
+            "audioQuality": "PREMIUM",
+            "hasAds": false
+          }
+        }
+      ],
+      "offer": null
+    }
+  }
+}

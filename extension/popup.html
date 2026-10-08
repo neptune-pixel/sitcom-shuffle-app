@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>SitcomShuffle</title>
+  <style>
+    body { margin: 0; padding: 14px; width: 280px; font: 13px system-ui, sans-serif; background: #141414; color: #eee; }
+    h1 { font-size: 14px; margin: 0 0 10px; }
+    label { display: block; margin-bottom: 4px; color: #bbb; }
+    input { width: 100%; box-sizing: border-box; padding: 7px 8px; border: 1px solid #444; border-radius: 6px; background: #222; color: #fff; font-size: 13px; }
+    .row { display: flex; gap: 8px; margin-top: 10px; }
+    button { flex: 1; padding: 7px; border: 0; border-radius: 6px; cursor: pointer; font-size: 13px; }
+    #save { background: #e50914; color: #fff; }
+    #clear, #copy, #clearlog { background: #333; color: #eee; }
+    .hint { margin-top: 10px; color: #888; font-size: 12px; line-height: 1.4; }
+    #status { margin-top: 8px; min-height: 16px; color: #6c6; }
+  </style>
+</head>
+<body>
+  <h1>Netflix default profile</h1>
+  <label for="profile">Profile to pick automatically</label>
+  <input id="profile" list="seen" placeholder="e.g. Furkan" autocomplete="off">
+  <datalist id="seen"></datalist>
+  <div class="row">
+    <button id="save">Save</button>
+    <button id="clear">Clear</button>
+  </div>
+  <div id="status"></div>
+  <div class="hint">Used when SitcomShuffle opens Netflix and it shows "Who's watching?". Profile names appear in the suggestions after the picker has been shown once.</div>
+  <h1 style="margin-top:16px">Recent activity</h1>
+  <textarea id="log" readonly rows="6" style="width:100%;box-sizing:border-box;background:#222;color:#bbb;border:1px solid #444;border-radius:6px;font-size:11px"></textarea>
+  <div class="row"><button id="copy">Copy</button><button id="clearlog">Clear log</button></div>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://www.netflix.com/api/ftl/probe?monotonic=false&device=web&iter=0",
+    "data": {
+      "pulse_timeout": 15000,
+      "next": 0,
+      "urls": [
+        {
+          "name": "oc.ix.proxy",
+          "method": "https",
+          "url": "https://ipv4-c220-ams001-ix.ftl.nflxvideo.net/ftl/probe?data=5120&recipe=ftlProbe&uuid=8e3891d9-e3aa-4ad2-8179-cea865c20143&device=web",
+          "tc": 1
+        },
+        {
+          "name": "oc.anycast.proxy",
+          "method": "https",
+          "url": "https://anycast.ftl.netflix.com/ftl/probe?data=5120&recipe=ftlProbe&uuid=8e3891d9-e3aa-4ad2-8179-cea865c20143&device=web",
+          "tc": 1
+        },
+        {
+          "name": "oc.isp.proxy",
+          "method": "https",
+          "url": "https://ipv4-c037-rtm001-kpn-isp.1.oca.nflxvideo.net/speedtest/range/0-5120?c=nl&n=1136&v=244&e=1789198931&t=PDPcdeqh1CCS9mzABeVXoPkuagYIJzHyP-ED8w&recipe=ftlProbe&uuid=8e3891d9-e3aa-4ad2-8179-cea865c20143&device=web",
+          "tc": 1
+        },
+        {
+          "name": "aws",
+          "method": "https",
+          "url": "https://oca-api.netflix.com/ftl/probe?data=5120&recipe=ftlProbe&uuid=8e3891d9-e3aa-4ad2-8179-cea865c20143&device=web",
+          "tc": 1
+        },
+        {
+          "name": "resolver",
+          "method": "https",
+          "url": "https://ifvitjitahao7gg3k7wzw-eu-west-1.r.nflxso.net/ftl/probe?data=5120&recipe=ftlProbe&uuid=8e3891d9-e3aa-4ad2-8179-cea865c20143&device=web",
+          "tc": 1
+        }
+      ],
+      "pulse_delays": [
+        0,
+        2000,
+        70000
+      ],
+      "logblob": "ftlProbe",
+      "ctx": {
+        "canary": false,
+        "ip": "80.60.0.120",
+        "region": "eu-west-1",
+        "uuid": "8e3891d9-e3aa-4ad2-8179-cea865c20143",
+        "device": "web",
+        "ts": 1789198831892
+      },
+      "pulses": 3,
+      "pulse_delay": 2000,
+      "isolate_pool": true
+    }
+  }
+]

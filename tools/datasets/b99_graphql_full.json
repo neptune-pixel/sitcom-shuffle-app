@@ -1,0 +1,3399 @@
+{
+  "Show:{\"videoId\":81662912}": {
+    "__typename": "Show",
+    "videoId": 81662912,
+    "title": "The Perfect Lie",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|04f7ee30-94fd-11f1-8a42-1286ac587e1d|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABZB9e3W9U1ScWuQpuqcE4XcrdxNLywkQEWxjL4BquJQ8eL0sxD6CcjxTaNvYx3RHywaoYtQ5ClgIxux_ZoQnFcMDZEcZFaL-310YywaG06zbOG0LaPzXNQVwQf88DdHED1BjfA.jpg?r=621",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81764523}": {
+    "__typename": "Show",
+    "videoId": 81764523,
+    "title": "Beauty in Black",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|214d2bc0-94f5-11f1-938e-1270c1ecc8f7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABTKWZPQTKTqHlEvdcBo-wD_ADbShZ6gwPE4owvY3rQmWT1myvcjoLncRefAEITOSdXtEddMxx_sBkOTm4R1jF6nlL4XUY4_1210Zqkv-RLKlmnS3TdjbWZIiqAMj3qumNmav3g.jpg?r=63e",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":80113612}": {
+    "__typename": "Show",
+    "videoId": 80113612,
+    "title": "Fauda",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|75cab6f1-8b2b-11f1-b128-0e5b7ef16f27|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABaCDLoRmm7-tqcPlNfWVuJ6teoWID7FnarNotwyLIYgOsygO-blhVhl8FvFUz8b47IHp0yQmLDU6ZsV0QQCeTz3fCxAffAY2_INGcPNs6rB9K_c39390zpfjXpbhZotSiQnvIw.jpg?r=0dc",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":80236318}": {
+    "__typename": "Show",
+    "videoId": 80236318,
+    "title": "Outer Banks",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|701f9cd0-80b2-11f1-9185-12760fd74ce5|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABRJX23EGn8ydYZ_1Z2r-a5JT7jZ303DOeHK9UBQJmojdRIDaTTxZ8KVeJ86hLcHfTE8v7-TG2urVN1migxqFwsVugv7ILzhGKk5jOn-jU-EzSB8XmaliIXXhF4bXV_1FXEul-A.jpg?r=279",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81426967}": {
+    "__typename": "Show",
+    "videoId": 81426967,
+    "title": "My Life With the Walter Boys",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|4214f4e0-69db-11f1-8e8d-0affd9b893b7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABQyVSLPh7DK0kuxGJL1G62waYw8ZoPWnbRzs5mTEHCxBwoDUeaVtTMCPMtoTEM5n_dtaKCpHLvOy5Bl3qNyJV6Q22B0sjij-WLnNK0DzZHu6cFqb2IPDJ1ise3Vy5hoTr9RJUw.jpg?r=dbc",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":81278442}": {
+    "__typename": "Movie",
+    "videoId": 81278442,
+    "title": "The Whisper Man",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|3a9934d0-70fa-11f1-8f2c-0affdc6ecb13|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABRCpS4HRJD47l2IJI_1gDIuyJjcwDTNsg8Wo1kyvbXoPoj3rcsM5GNGATJt-1f6Ce6E9hmQ_x45KG7XPtmKwJ5Gk1N1rRz78wqA8E2N1sdr-sPshrEyeW3vJr9x9LMEYtK2AJA.jpg?r=649",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81991578}": {
+    "__typename": "Show",
+    "videoId": 81991578,
+    "title": "Crew Girl",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|bd06edd1-8799-11f1-a314-0ef6e36314d1|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABe0oP9ZSfJYy1v0Zk4yRLMRcBYMQAmCeoHVFgNeS828u51KgzRFMx12fu58if2KMZUK1WlXDmvZzx31vRpMzKj3YEsorQ_CRN_2hTHUd8FcxtX-CVqGsJIL1ebnm5j3q0VY-QQ.jpg?r=6ca",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81989322}": {
+    "__typename": "Show",
+    "videoId": 81989322,
+    "title": "Death of the Pastor's Wife",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|579e2660-8ca9-11f1-a318-0affe7efd059|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABa8zwc0eNIm5tZZPqTwPaIHaivlL3RbaJ0AB99-kIOnFyNB3ZPvuYuAtjAuV9tzq0w7desqi4_lAPm-JSMuBEnl8MVn76-QBjf0--KNeY5USVA5_myfLJWbiUoH49oxC6GCJpA.jpg?r=bdf",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81509368}": {
+    "__typename": "Show",
+    "videoId": 81509368,
+    "title": "I Will Find You",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|c2b8b4a0-53ca-11f1-b1c6-0affe4c3cc51|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABYQxUnXwncsKx2-0OseYmO4GN83FZ6GUFjzcxp08iE3YzcmhDN_zm_cfPZKT8fPGSudig-CcIduXCl2C7kUUX3h5czH1HQWX5Hk0ONeOBbDDraJltKEznRH_I2tvDYD__-LYPw.jpg?r=c16",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":82130500}": {
+    "__typename": "Movie",
+    "videoId": 82130500,
+    "title": "Why Did I Get Married Again?",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|32b99330-7f06-11f1-ba87-0affffcadb5f|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUSnnQNdr2NIvsjS5dwXf3iwrCflIEB1ayayrFU7efngtgrNj9tR7QpKPGpoonBYsRTiIGHEKjltFz4iYu_WgYlqaz6d78kEBadEffVk9y5-NXybrU4nYT77dHaBnhirPEtYJQ.jpg?r=cc9",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Supplemental:{\"videoId\":82067700}": {
+    "__typename": "Supplemental",
+    "videoId": 82067700,
+    "playableVideo({\"request\":{\"encodingProfiles\":\"NODRM_H264MPL31_HEAAC_MP4\",\"prefersNonLetterBoxedVideo\":true}})": {
+      "__typename": "PlayableVideo",
+      "url": "https://occ-0-6143-769.1.nflxso.net/so/soa6/403/1920883678633757953.mp4?v=1&e=1789209810&t=_UpaQOub_IsWqoVnx8Xv4-b7m5s"
+    },
+    "shortSynopsis": "",
+    "title": "Season 1_hook_primary_16x9_backfill",
+    "availabilityStartTime": "2026-04-19T22:00:00.000Z",
+    "artwork({\"params\":{\"artworkType\":\"BILLBOARD\",\"dimension\":{\"width\":1280},\"features\":{\"fallbackStrategy\":\"STORY_ART\",\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "BILLBOARD|3c9dd8a0-fb7f-11ee-9044-0e137b5314c7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdPwe0t8b_0ImFQDrnoM3eKf9w6ImoLRwe92GEsifnhy3IwCyUAwwrgmQmnTSGagfkF3NoUrucdLxBezI2vqogVh24odhUjvr_fX.jpg?r=53c",
+      "width": 1280,
+      "height": 720,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6523,
+        "y": 0.4167
+      }
+    },
+    "displayRuntimeMs": 66000
+  },
+  "PromoVideo:{\"id\":82067700}": {
+    "__typename": "PromoVideo",
+    "video": {
+      "__ref": "Supplemental:{\"videoId\":82067700}"
+    },
+    "id": 82067700
+  },
+  "Person:{\"personId\":30057072}": {
+    "__typename": "Person",
+    "personId": 30057072,
+    "name": "Andy Samberg"
+  },
+  "Person:{\"personId\":20001171}": {
+    "__typename": "Person",
+    "personId": 20001171,
+    "name": "Andre Braugher"
+  },
+  "Person:{\"personId\":30195075}": {
+    "__typename": "Person",
+    "personId": 30195075,
+    "name": "Stephanie Beatriz"
+  },
+  "Person:{\"personId\":20055888}": {
+    "__typename": "Person",
+    "personId": 20055888,
+    "name": "Terry Crews"
+  },
+  "Person:{\"personId\":30201020}": {
+    "__typename": "Person",
+    "personId": 30201020,
+    "name": "Melissa Fumero"
+  },
+  "Person:{\"personId\":30078642}": {
+    "__typename": "Person",
+    "personId": 30078642,
+    "name": "Joe Lo Truglio"
+  },
+  "Person:{\"personId\":20060137}": {
+    "__typename": "Person",
+    "personId": 20060137,
+    "name": "Dirk Blocker"
+  },
+  "Person:{\"personId\":20058012}": {
+    "__typename": "Person",
+    "personId": 20058012,
+    "name": "Joel McKinnon Miller"
+  },
+  "Person:{\"personId\":30201021}": {
+    "__typename": "Person",
+    "personId": 30201021,
+    "name": "Chelsea Peretti"
+  },
+  "Person:{\"personId\":30205100}": {
+    "__typename": "Person",
+    "personId": 30205100,
+    "name": "Daniel J. Goor"
+  },
+  "Person:{\"personId\":30138911}": {
+    "__typename": "Person",
+    "personId": 30138911,
+    "name": "Michael Schur"
+  },
+  "Genre:{\"genreId\":1305630}": {
+    "__typename": "Genre",
+    "genreId": 1305630,
+    "name": "Comedies"
+  },
+  "Genre:{\"genreId\":10375}": {
+    "__typename": "Genre",
+    "title": "Comedy Series",
+    "genreId": 10375
+  },
+  "Genre:{\"genreId\":26146}": {
+    "__typename": "Genre",
+    "title": "Crime Series",
+    "genreId": 26146
+  },
+  "EntityTag:{\"id\":81331731}": {
+    "__typename": "EntityTag",
+    "id": 81331731,
+    "displayName": "Comedy",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":105023}": {
+    "__typename": "EntityTag",
+    "id": 105023,
+    "displayName": "Ensemble",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":108730}": {
+    "__typename": "EntityTag",
+    "id": 108730,
+    "displayName": "Police Detectives",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":417850}": {
+    "__typename": "EntityTag",
+    "id": 417850,
+    "displayName": "New York City",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":81496962}": {
+    "__typename": "EntityTag",
+    "id": 81496962,
+    "displayName": "Emmy Nominee",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":104928}": {
+    "__typename": "EntityTag",
+    "id": 104928,
+    "displayName": "Workplace",
+    "isDisplayable": true
+  },
+  "EntityTag:{\"id\":100183}": {
+    "__typename": "EntityTag",
+    "id": 100183,
+    "displayName": "Series",
+    "isDisplayable": true
+  },
+  "Show:{\"videoId\":80157073}": {
+    "__typename": "Show",
+    "videoId": 80157073,
+    "title": "The Good Cop",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|a5989b31-9116-11e8-a050-0a908b14a8d6|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABQCemy97NWy8016c0aSUXpigm3KYkxLsB2QPzJD6vpKYYPty_t9MH8nF_z6kcBxizH3fORyP8yp-_rl_l8UQDjoH_1gR3sT-TD7CEKs2R94SAlRMV4SARy49beaj9OFE8katQw.jpg?r=673",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":81004274}": {
+    "__typename": "Movie",
+    "videoId": 81004274,
+    "title": "Holmes & Watson",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|98009480-c6e5-11ef-aa4c-0affff10d04d|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABSMgQ_pHDGcuZNJ4yDK22tAKmf1hxvKghyUcf77ZwCrnV81DTF0EDkFMlo0t84Gh8R-X_nmyVh6kucdg_YALbHgZ7MoJvXD2kTUg.jpg?r=ecd",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81026218}": {
+    "__typename": "Show",
+    "videoId": 81026218,
+    "title": "Dad Stop Embarrassing Me!",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|53600591-8292-11eb-8d2f-0ab62eb27ee9|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABZxWqGtLpRi-R-0Gpe2qIs658feHZNHqilo8I9-t_btLpCA_JMSqy77JTm7LdkkqiKEDEFQUjqqrIgiGBWVKQqaWxjB4zCxq8bJ4hWKvjpcDU-IRXaw4YyT4YullBSet7I8eAA.jpg?r=2d2",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":80117694}": {
+    "__typename": "Show",
+    "videoId": 80117694,
+    "title": "Disjointed",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|474b4470-dec8-11e7-be4d-1232374414e2|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABXHIjW7i5ZDvWqPqSr0ASreZcAIQxyi2cACo3OlH4orAV1W5v_6b1cuJIyvyBViSKEdtObfVYbGIfgxSxo-6Z9zWFdjxywFQbZ-DMtOWi63Ll9H6NnZVeI9slhVxlF8JyzFP8g.jpg?r=338",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":70167067}": {
+    "__typename": "Movie",
+    "videoId": 70167067,
+    "title": "Horrible Bosses",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|1-1-1-boxshot-87410|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABamegPZzKL6HDgyqEhwGRHZ37Dts7PjnF-BXnZQmp68w76eixGWlIkaMk6aVi6kBD0bFGguUR0dBpJrsxmWKPekn0JCtgbCpAYee.jpg?r=64d",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":60003509}": {
+    "__typename": "Movie",
+    "videoId": 60003509,
+    "title": "Miss Congeniality",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|65bf3ec2-a069-11e4-9042-0fbcf1d90c10|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUducWa7fzi2T5Y3ZewJC-Z4SezGMuEXftRdNyZnWxwYen30798CH6d6iMd9CXM9M6HyDM-Y1CYx7F2uIrnAi0LnltCVymn5S9IH.jpg?r=03c",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":81520490}": {
+    "__typename": "Show",
+    "videoId": 81520490,
+    "title": "Community Squad",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|5aae62d0-5027-11f0-a99d-0ed838838013|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABUb-E2b-g5fFgzNaFN9gjf_CHKMEAjAyP-CUsN1jWODBvvQV3o0gW7nhKhWKy6fNKcW_7j9OD5HVNT_cAk57VMQYmMf2dk19mW3S-8DeEKH-A_nIGo08lEWcoHHLWQNy4Y-zcg.jpg?r=768",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Movie:{\"videoId\":70140922}": {
+    "__typename": "Movie",
+    "videoId": 70140922,
+    "title": "Just Go With It",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|1-1-1-boxshot-181508|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABbrQSCAoa7Aw5gOYxrBEIdTAC3AZsydE--rFSzJ2DLmU0s5PwvGPM1dpyDVr0X7L7ZdAhqkOxR0kX_dqoMerP3Prl5OqkFboYdVh.jpg?r=a28",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Show:{\"videoId\":80234451}": {
+    "__typename": "Show",
+    "videoId": 80234451,
+    "title": "Family Reunion",
+    "artwork({\"params\":{\"artworkType\":\"BOXSHOT\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true,\"performNewContentCheck\":false,\"suppressTop10Badge\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "boxshot|470d9570-2e74-11ed-b2cd-0e916a252af5|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABa98dP8IhnFD9dyYwXFaovvNWvuniKhnu3zW4JCdmcqig6RjRobMhszkRLy72aJKx7_jTgl0bGArRIu8bmf3vC5lku-3crfCTs2m29LLp_OaTRcp_8nzbR-uRDWo8Ev4yE7mMw.jpg?r=6d4",
+      "width": 300,
+      "height": 420,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Genre:{\"genreId\":81746416}": {
+    "__typename": "Genre",
+    "name": "Comedy",
+    "genreId": 81746416
+  },
+  "Episode:{\"videoId\":80004161}": {
+    "__typename": "Episode",
+    "videoId": 80004161,
+    "title": "Pilot",
+    "runtimeSec": 1371,
+    "shortSynopsis": "When tightly wound Captain Holt takes over the precinct, carefree detective Jake Peralta and his coworkers must adapt to a new, strict reality.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d81a72a0-174e-11e8-afb8-0a9a7ce9885e|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUZEJiUxDoU_qnJ6cVFDunETjR5LLKhumJluE6xmzookNQYCYMcsPGfMUo4ZxI7Wrdg1WfGbcUPUUtP0TeOV1QD_eYkqEXOup9anvJE3pHQ_xNIHHYw-IKCZ.jpg?r=d1b",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4771,
+        "y": 0.2759
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004162}": {
+    "__typename": "Episode",
+    "videoId": 80004162,
+    "title": "The Tagger",
+    "runtimeSec": 1261,
+    "shortSynopsis": "After Jake arrives late to roll call, Captain Holt tasks him with a menial graffiti case. Meanwhile, Charles doubts everything after meeting a psychic.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|b22c8f00-174f-11e8-86a9-0eab410861fe|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUftPUicYdS1gwCXXLORpzHiLM524eQugvaZHR9UaeKffvcs_3SkydruIpVkfQo5eu0a-s6bsnFU8HTSHLKL7TnEJVmpZIfkB7v3zyRQyBhDFydXeY_-aDw1.jpg?r=0d1",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6938,
+        "y": 0.2713
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004163}": {
+    "__typename": "Episode",
+    "videoId": 80004163,
+    "title": "The Slump",
+    "runtimeSec": 1304,
+    "shortSynopsis": "The squad worries that Jake's recent inability to close cases will rub off on them. Meanwhile, Amy struggles to lead a chaotic junior police program.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|22b40e30-1753-11e8-a17a-0a3b5af872ea|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWDIu5tkKe-CAYfC2R3Bq27WcKGozoo7TtfUOdhS8ylO9Z3pZx2gyzlXlrKEr-v1euqx1gq8wV3leIghDcdGkseQmwTCOibu2RgO7YBh60L7sMXE75j3Aaw-.jpg?r=ae8",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5505,
+        "y": 0.2269
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004164}": {
+    "__typename": "Episode",
+    "videoId": 80004164,
+    "title": "M.E. Time",
+    "runtimeSec": 1296,
+    "shortSynopsis": "Jake acts up when he's not allowed to lead an investigation. Later, the team turns on him when his flirting with a medical examiner delays her report.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d95e23f0-1753-11e8-9576-0a323dd50e00|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbYsLXk_JMpT4UwTWS9TMsUajr1a__ZygqbrV9ehH_2j3pZk3rRxYGHM4BA3FCDjy-f2i8BJ6EhN_DFey6Xxyt3sZFk3XThn07PmvNFqz7Dzy7r6yW6a3dKd.jpg?r=43b",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3255,
+        "y": 0.3907
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004165}": {
+    "__typename": "Episode",
+    "videoId": 80004165,
+    "title": "The Vulture",
+    "runtimeSec": 1302,
+    "shortSynopsis": "A Major Crimes detective known as \"The Vulture\" takes over Jake's nearly solved case and steals his thunder, prompting revenge.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|cae7cea0-7076-11e6-9afa-0e6ca4f5c367|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb92GRoq_oVgPCrnKCLvyQdk2FB1YHL6DPKWHgZenmNjwyaB32sRj8t_emU1eZ84D1g1OtIGsnJ91lp4aIzp_8Dou3qAUr3yXZsRJbzhbEp91s12H_euAVYu.jpg?r=d92",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3453,
+        "y": 0.3361
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004166}": {
+    "__typename": "Episode",
+    "videoId": 80004166,
+    "title": "Halloween",
+    "runtimeSec": 1304,
+    "shortSynopsis": "Halloween-hating Amy is anything but festive when she has to don a costume and join Charles for an undercover operation at a Halloween party.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|c79918d0-7076-11e6-a78d-12f5a616b4ad|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABasfIljDRB-Prkxo4OdnrwN84GRcMWZnX77P7-vCI1LPQ-K85RoTmpY_va8KwZj9jk421COnSlH4oW32QWcd_55mRE45xryZI7yUGTZyTdprz-yw-YIbOlnA.jpg?r=d21",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.751,
+        "y": 0.2315
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004167}": {
+    "__typename": "Episode",
+    "videoId": 80004167,
+    "title": "48 Hours",
+    "runtimeSec": 1304,
+    "shortSynopsis": "When an arrest lacks sufficient proof, Jake has 48 hours to find solid evidence or the suspect will go free, forcing the team to work over the weekend.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|946970f0-1754-11e8-86a9-0eab410861fe|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABc-SAg9-h_qb5gpwOqOMy77aAPx7kq75gzmL1wqjUfFVfmmTngdMeK9qbsuP66C9GH1ndQ295DAA0YuIG7LoN_MUTORZeO-h92aOW-AWnr2CFyEhIlA84QVK.jpg?r=cea",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6646,
+        "y": 0.3528
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004168}": {
+    "__typename": "Episode",
+    "videoId": 80004168,
+    "title": "Old School",
+    "runtimeSec": 1302,
+    "shortSynopsis": "Jake's dream day with his hero, a former crime reporter, turns nightmarish when his comments about Holt and the precinct go \"on the record.\"",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|bd778f80-7076-11e6-a6fc-0e2ab01e74a3|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXDzJHCPGT7AWO2EF7N_Gs98Q4bm0MtbGgyH24S1H42NC7nm_3xh9rvC87NqgkofQFBoXCU9y-VwhyI7ryx6z_uwbQdZwKqts-douKtru-aaDvc_-wtINKqX.jpg?r=039",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3755,
+        "y": 0.5
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004169}": {
+    "__typename": "Episode",
+    "videoId": 80004169,
+    "title": "Sal's Pizza",
+    "runtimeSec": 1298,
+    "shortSynopsis": "When Jake's favorite pizzeria is burned down and the fire marshal suspects the owner, Jake steps outside his jurisdiction to catch the real arsonist.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|b8ba3470-1755-11e8-8241-123d78c1a440|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQLtMkBgR5STNGXu-ypxJLdNDzTICsG66Cpn2T3biO4hvLi_tMPNECCToG6xCvRFYO1flPuEWxOAMjqSftqguy5DdhO1x_nkFhpOh8zjVLP3PDWObxq1pD5A.jpg?r=839",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4016,
+        "y": 0.2343
+      }
+    }
+  },
+  "Episode:{\"videoId\":80004170}": {
+    "__typename": "Episode",
+    "videoId": 80004170,
+    "title": "Thanksgiving",
+    "runtimeSec": 1306,
+    "shortSynopsis": "Amy hosts Thanksgiving dinner for the precinct in an effort to get Holt to be her mentor, but Holt and Jake leave early and the rest hate her cooking.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|3de60070-1756-11e8-86a9-0eab410861fe|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABf4UxM5IBI_3avEubgQJExk0Ji0UfmO0NF3j59jGDDuLFiNGhHjPmMBkua3hPK4BsBRIXSEG0BkYPUrkPUPLJ0dnUZXt1IOeFqBoDExDe4Y4MMZAe_vaUiPo.jpg?r=b40",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6432,
+        "y": 0.2926
+      }
+    }
+  },
+  "Season:{\"videoId\":80004160}": {
+    "__typename": "Season",
+    "videoId": 80004160,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 1",
+    "shortTitle": "Season 1",
+    "title": "Season 1",
+    "totalDisplayRuntimeInSec": 28633,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004161}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004162}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004163}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004164}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004165}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004166}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004167}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004168}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004169}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80004170}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011382}": {
+    "__typename": "Episode",
+    "videoId": 80011382,
+    "title": "Undercover",
+    "runtimeSec": 1301,
+    "shortSynopsis": "When Jake discovers that a mobster escaped his otherwise successful sting, he enlists Charles to help track him down, worrying Gina.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|462db570-7ef8-11e8-a16f-0ead0d6f23c4|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcPh-8sodnC6EvdR_Ap-1fn3IoXTtX7ScuVO0y036dNZevN96uH6A7150CzaatBjinmQYY8HuXHS0lWjiE4xeQvXkS0UKaGLiPWGgaYJdv1XlRBbkePwV6uT.jpg?r=99b",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5495,
+        "y": 0.188
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011383}": {
+    "__typename": "Episode",
+    "videoId": 80011383,
+    "title": "Chocolate Milk",
+    "runtimeSec": 1304,
+    "shortSynopsis": "Holt's nemesis heads the precinct inspection, while Terry readies for his vasectomy and Charles needs a date for his ex-wife's engagement party.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|6d4b1eb0-706b-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR4QhQJO1z74750VkuwDYa7eoFeufw2cdIo5dFjMeTVrwhoq49YmobgIJYgP6OIo3FO_SRHPUH3eOau4LIPM3_sJ7ogfqIdJq46qSeDgFIOo3CLoOBIH2zjS.jpg?r=3d2",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5875,
+        "y": 0.2731
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011384}": {
+    "__typename": "Episode",
+    "videoId": 80011384,
+    "title": "The Jimmy Jab Games",
+    "runtimeSec": 1303,
+    "shortSynopsis": "When a motorcade detail is delayed, it leads to a wacky competition, and Charles must get an incriminating videotape from Hitchcock.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|cd16a350-7f0f-11e8-b1cd-12742842eb2c|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ30VS0o8M4kK2Lp1x07aPhhok7tF9pEE3h6DdfG6YIEg-MtsLatEgihZxl4Jqw0N4qRIfUg2MFpm4Zo1UsfU2XZWZ-nsKMmwe7V95nEVkrYLwxtGQJSehvS.jpg?r=7c0",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3656,
+        "y": 0.4898
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011385}": {
+    "__typename": "Episode",
+    "videoId": 80011385,
+    "title": "Halloween II",
+    "runtimeSec": 1303,
+    "shortSynopsis": "For their annual Halloween wager, Jake bets Holt that he can steal his watch before midnight, and Gina gets kicked off her dance squad.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ecd1a780-7f0f-11e8-a16f-0ead0d6f23c4|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXOTKEi7jDR7-j37oeo9v2YJNAE-XejGBJ-gY8TbuacLVCPWhIzywQQY8mkUZBY4_YimpzlR_ST8cEa3oBs2qIi6Wj4rzJ0nWIN9F4wHQ1RUEOMw2173m230.jpg?r=b13",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6255,
+        "y": 0.2333
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011386}": {
+    "__typename": "Episode",
+    "videoId": 80011386,
+    "title": "The Mole",
+    "runtimeSec": 1303,
+    "shortSynopsis": "Holt and Jake search for a mole in the precinct, and Terry and Rosa visit a silent disco to find \"Giggle Pig\" dealers.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|f41a3750-7efb-11e8-883f-12f5d6da9e88|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABf9HitIsJi2YdwVjqJz4kme0b156Fvfuv44wTJ95WQLjIfV4dOowHhSA8-SdmLxz0nzBpfVycpjEK7XdY16sVW_KOCkRE0lpx2z5tarLgMpSpgDqaFOGrXmY.jpg?r=5b8",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5531,
+        "y": 0.412
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011387}": {
+    "__typename": "Episode",
+    "videoId": 80011387,
+    "title": "Jake and Sophia",
+    "runtimeSec": 1304,
+    "shortSynopsis": "Jake falls for a woman he meets at a bar and then realizes she's a defense attorney for his suspect. Rosa pressures an unwilling Amy to run for office.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|46b78ca0-7efd-11e8-be1b-0a6f05272c4c|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcPe4meHIBN2ulkOgJRjO-ZerileV_ld-IVIRjVn3Z6HV2Y8HdSzAp7NQpj5mAznTEwYfc22CyZF6xvTtJc-l00CxsjAFlewtXdZvRuOgg6eB0X0hVmb4UJR.jpg?r=cce",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3401,
+        "y": 0.3435
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011389}": {
+    "__typename": "Episode",
+    "videoId": 80011389,
+    "title": "Lockdown",
+    "runtimeSec": 1284,
+    "shortSynopsis": "When the precinct goes into lockdown on Thanksgiving night, it's up to Jake to keep morale high, even as things spiral out of control.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|59cc6d80-706b-11e6-91c0-0e7c5c1e84d5|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY35m5Wl6B7WEVL2FBznZ2Zh98779yqmcJ0KzMsUBR7cu_T3TDj0OIw3kgs2iQeU2Md8dO9XitCvs9rEkpkmbnYMqmI7flG5gThF_YvGPKbFVwB-h-Oi4fnz.jpg?r=8ba",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6583,
+        "y": 0.2657
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011388}": {
+    "__typename": "Episode",
+    "videoId": 80011388,
+    "title": "USPIS",
+    "runtimeSec": 1296,
+    "shortSynopsis": "Jake and Charles join forces with a quirky postal investigator to catch a drug dealer. Amy struggles to kick her smoking habit \u00e2\u0080\u0094 even with help.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|5d796ff0-706b-11e6-9d5e-0aa2cd9f068f|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWrAXi0Z104GeXzU7rgqOi8oxidXhYjZqEcckKmzY_z8RqLLFh55NIwXJu4rxZmrsesfMGfo8JsLd7MjzpB2DT7AQuvjGDrh73SHlGtUIADTByCOUa37xnbN.jpg?r=bf8",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7672,
+        "y": 0.5824
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011390}": {
+    "__typename": "Episode",
+    "videoId": 80011390,
+    "title": "The Road Trip",
+    "runtimeSec": 1303,
+    "shortSynopsis": "Jake's spontaneous double date plan backfires when he invites Amy's boyfriend to a work trip \u00e2\u0080\u0094 not knowing she is planning to break up with him.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d4a116c0-7efe-11e8-b1cd-12742842eb2c|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZGpHcACD9PQu4rp2fb218KhTUuxMDyElD4UyxNf3ME8-5dSmTPHB4kn8ln3_vQXtrdmrLyPLHH2V3FDZbeOS2P04uYKAWf7IMp5s2TAeJVmiXoEpihIiVjL.jpg?r=dbd",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4328,
+        "y": 0.2222
+      }
+    }
+  },
+  "Episode:{\"videoId\":80011391}": {
+    "__typename": "Episode",
+    "videoId": 80011391,
+    "title": "The Pontiac Bandit Returns",
+    "runtimeSec": 1303,
+    "shortSynopsis": "Jake and Rosa catch the Pontiac Bandit, who could lead them to the \"Giggle Pig\" kingpin. Charles and Gina worry about their parents getting close.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|0793f060-7f05-11e8-b067-0e515310ad74|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRmfhhKc4VLC3TBiY7TOotd8ocvaApIIRPUiHtQP6FBVMa6FxVNpbHFOKliVZAnREcgphkrv9hX0qwRvbdqM0mcWhfa9f3xZ2jLNgmk76fEmZo3bXcISF31B.jpg?r=fbd",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5802,
+        "y": 0.3111
+      }
+    }
+  },
+  "Season:{\"videoId\":80011571}": {
+    "__typename": "Season",
+    "videoId": 80011571,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 2",
+    "shortTitle": "Season 2",
+    "title": "Season 2",
+    "totalDisplayRuntimeInSec": 29882,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011382}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011383}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011384}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011385}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011386}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011387}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011389}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011388}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011390}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80011391}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028062}": {
+    "__typename": "Episode",
+    "videoId": 80028062,
+    "title": "New Captain",
+    "runtimeSec": 1295,
+    "shortSynopsis": "The precinct's new captain makes an unforgettable first impression. Jake and Amy try to keep their budding romance under wraps.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|95c13160-6e89-11e6-a1df-1214fe078a91|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdLsysCOvkt13CZ9myEmW33aNBQwu1Th9zdBCv0J_vHt4la9d8T6C8NtYzWWj3HAqmrFX5SiGbClXtYnGKFbyXEx1VZUmKcu9EK5gkHz2Uq4LrenRAeLOhT_.jpg?r=b15",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4995,
+        "y": 0.5
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028063}": {
+    "__typename": "Episode",
+    "videoId": 80028063,
+    "title": "The Funeral",
+    "runtimeSec": 1297,
+    "shortSynopsis": "Another shake-up at the precinct spells trouble for Jake and Amy, while a stumped Holt goes to Terry to find inspiration for a difficult speech.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|92ae2500-6e89-11e6-b1f0-0e76783058b3|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABed4z91tfbu-NPryrM8almLzrNvlDIIGUBmCmPcItd4USkn8j3pjxQDnEZKZEkEK-3eBuX_cxBw-37ooqAKj1PZ71RM7A_XJEB1sYdOAO2ttYw0PmCgAOFA9.jpg?r=5d9",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6125,
+        "y": 0.2806
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028065}": {
+    "__typename": "Episode",
+    "videoId": 80028065,
+    "title": "Boyle's Hunch",
+    "runtimeSec": 1295,
+    "shortSynopsis": "A smitten Charles vows to get a fellow foodie out of prison by proving her innocence. Holt's bid to boost cops' public image sparks a backlash.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|8c92baa0-6e89-11e6-a6fc-0e2ab01e74a3|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUKyplqWRfLHjvYFmR_dFY80CQVpLxOVPqAXjZieb4iV-38WmcrZ8H28huNQw3ZvKslMyREXv7KIaMPl7bh7_bi3y8kizDMo3KCSo5rnNDFLxE-MAmdtZhDw.jpg?r=d80",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6406,
+        "y": 0.2537
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028064}": {
+    "__typename": "Episode",
+    "videoId": 80028064,
+    "title": "The Oolong Slayer",
+    "runtimeSec": 1284,
+    "shortSynopsis": "While Jake and Holt secretly team up to hunt for a serial killer, Amy and Rosa seek revenge for a sexist assignment.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|90c63ff1-35af-11e7-bfda-0ea8c24bc638|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdlNCSnwavHlBhEpy1R8JKcsgDVBuE4Q9C5XuY_w9vnl-aMPjon_tBeMyg596r8TwLwekr45mdSP1_tp7KlfU5IH-jvtc-vXIyKQznGaLt7KVV_XFbRNDytk.jpg?r=46c",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4292,
+        "y": 0.3398
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028066}": {
+    "__typename": "Episode",
+    "videoId": 80028066,
+    "title": "Halloween Part III",
+    "runtimeSec": 1298,
+    "shortSynopsis": "For their annual Halloween Heist, Jake and Holt draft teams and compete to steal a crown. But Amy's divided loyalties leave her out in the cold.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|89732b20-6e89-11e6-903c-0afeae59cde1|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdFIeIrSIdZwP_HuU_AsLb0op6uv-gsVeiaKF5q5Og_7C-2w0G9Y0KyeExf2SBQh6yuUWzIuiYwS-KxzE57oYw6Y1yqdF0fjB0wrmD-9bf208hz4ntIbKaxB.jpg?r=ee9",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4923,
+        "y": 0.2671
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028067}": {
+    "__typename": "Episode",
+    "videoId": 80028067,
+    "title": "Into the Woods",
+    "runtimeSec": 1299,
+    "shortSynopsis": "Jake and Charles whisk Terry away for an ill-fated camping trip, while Holt helps Rosa with a dilemma. Amy tries to cash in on an old invention.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|8682e900-6e89-11e6-9b0e-0a6ef0b69e65|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABS3LeyXMhBuzDv5YfNNtIT-pcliesxnJ7gOzXJi9g_dgd53R3EgZtu5ld6Y6S-d3VA5sPvzGBoDTLuaylwxdB0_4p3VpIVev-pX6xLp8QsHq15OiCMwRVdU9.jpg?r=a75",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5797,
+        "y": 0.1898
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028068}": {
+    "__typename": "Episode",
+    "videoId": 80028068,
+    "title": "The Mattress",
+    "runtimeSec": 1282,
+    "shortSynopsis": "A lovers' spat leads to trouble on the job as Jake and Amy chase down a new street drug. A parking mishap drives a wedge between Holt and Charles.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|830226b0-6e89-11e6-903c-0afeae59cde1|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaoacqkp_iMppmpsGPZzGMyHQ0gUBDorqdCgmj1K6Ve_dnrJoOWRj3j1rVWSDpEoRodH5wc4MH1BG2PTx_7TE-MZF0c50OA9jjxCjhqh4cII-vN_bgTTWBUv.jpg?r=b39",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.351,
+        "y": 0.3787
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028069}": {
+    "__typename": "Episode",
+    "videoId": 80028069,
+    "title": "Ava",
+    "runtimeSec": 1264,
+    "shortSynopsis": "Jake jumps into action when Terry's wife goes into labor at the precinct. Meanwhile, an internet outage forces the team to go old-school.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|7bc56dd0-6e89-11e6-903c-0afeae59cde1|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABarLiB638I6t6tsMzE_AKfF4Fwb_hMz6YLl7Wj7wAqNUU6p4BHD-H_yvFgurO2ULhAZg1BBLKIus5ZdBiRfGFfwnOQh7rzbZlWBJh1CexAkXQSH5J4Nud_pg.jpg?r=786",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3979,
+        "y": 0.2583
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028070}": {
+    "__typename": "Episode",
+    "videoId": 80028070,
+    "title": "The Swedes",
+    "runtimeSec": 1290,
+    "shortSynopsis": "Working with two elite Interpol agents reveals the flaws in Jake and Rosa's partnership. Meanwhile, an expert helps Gina prepare for an astronomy test.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|78e5a670-6e89-11e6-b576-12a605806ab1|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbo1QrJefmZW2oUo3zK4xuE_wQbOcINN8w8QaZ0z0DzgEM1c3OftI8Qp5djUsJwYi5dyY3a0PTswrps8rh3K5chg_XJ3Q2j5ORNa0FTB_XrXA3F0ng5BGYSY.jpg?r=d68",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.2255,
+        "y": 0.2574
+      }
+    }
+  },
+  "Episode:{\"videoId\":80028071}": {
+    "__typename": "Episode",
+    "videoId": 80028071,
+    "title": "Yippie Kayak",
+    "runtimeSec": 1278,
+    "shortSynopsis": "A last-minute Christmas shopping trip lands Jake, Gina and Charles in the middle of a \"Die Hard\"-like hostage crisis.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|75cf65c0-6e89-11e6-a6fc-0e2ab01e74a3|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUIp4gBIzdcobnpzT8IWDhb6RkQyJbIRTcuYuFZWETZ-S-LH9GYVzcGDeBojrDjK0yx27NzEds3QNLI6lUZHvuKCgIrG34_pijKtLz3VorzJx1LuktBvO4fN.jpg?r=5d5",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4875,
+        "y": 0.3046
+      }
+    }
+  },
+  "Season:{\"videoId\":80028262}": {
+    "__typename": "Season",
+    "videoId": 80028262,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 3",
+    "shortTitle": "Season 3",
+    "title": "Season 3",
+    "totalDisplayRuntimeInSec": 29677,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028062}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028063}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028065}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028064}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028066}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028067}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028068}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028069}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028070}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80028071}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045639}": {
+    "__typename": "Episode",
+    "videoId": 80045639,
+    "title": "Coral Palms: Part 1",
+    "runtimeSec": 1301,
+    "shortSynopsis": "Still under threat from the murderous Jimmy Figgis, Jake and Holt adapt to their new life in Florida under the witness protection program.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|52891490-172e-11e8-86a9-0eab410861fe|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe3BUGfpZ9_QahKcGzKdyRULBY695RZmNOLRdhg2Nii4HwJfCaCZJ_D-D18hkhMstdga3rnyHQHd0SaKMZ0GkN9qXQiiDnzLB2gMmz_2Ra8iKd_ZVn-3v7SH.jpg?r=be5",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3031,
+        "y": 0.7694
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045640}": {
+    "__typename": "Episode",
+    "videoId": 80045640,
+    "title": "Coral Palms: Part 2",
+    "runtimeSec": 1304,
+    "shortSynopsis": "An attempt to purchase guns under their new identities leads to trouble for Jake and Holt. Back at the Nine-Nine, new captain C.J. runs a loose ship.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|19311930-172f-11e8-8bb8-0edcc7ad027a|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZtWxJgbVt4nD29jUGeMrGw1LK_0RmMT4MS36DopFQ2KJ7o9jOx5njl4FdKzAEok2swGiApbetJnb9N7hDCsyboucl9etAUEBJ8a4pcZNkorgxGnHjDuPv8N.jpg?r=232",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.2594,
+        "y": 0.5
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045641}": {
+    "__typename": "Episode",
+    "videoId": 80045641,
+    "title": "Coral Palms: Part 3",
+    "runtimeSec": 1263,
+    "shortSynopsis": "Amy and the squad race to Florida to help Jake and Holt. The reunified Nine-Nine devises a plan to lure Jimmy Figgis into the Fun Zone.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d253f720-172f-11e8-8cb5-0e7e7f46fc68|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRrXz5kKU4uBk-Xju2eqchy80Sh5JNzD2zojlBKN0GEfLVnXzizVwi28EeFfHeLUWuGofz7UyEJhtvoIxUvwwG1rB7NFqz_cJBsVqpJWmtYAJXKxuBzDRvo5.jpg?r=d92",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6771,
+        "y": 0.1861
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045642}": {
+    "__typename": "Episode",
+    "videoId": 80045642,
+    "title": "The Night Shift",
+    "runtimeSec": 1295,
+    "shortSynopsis": "While working the grueling night shift, Jake enlists tourist Jess Day to help him chase a suspect after Charles leaves to be with his son.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|f9426ff0-1730-11e8-9ad1-12685afe6bee|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU7_v26dqDQNp7SfdCWGo5NJAvffKoA5BMOwVgLwED8ltOSXShxOy1XxzEsdIEzL9ul0ao4n0V4Lk2kpqfXidGXegJPH-SXjvJpi1ZgfNAwS3lztEpawlmAf.jpg?r=3e1",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7417,
+        "y": 0.2815
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045643}": {
+    "__typename": "Episode",
+    "videoId": 80045643,
+    "title": "Halloween IV",
+    "runtimeSec": 1255,
+    "shortSynopsis": "Charles becomes an unlikely commodity as the precinct holds another heist to decide who truly deserves the title of Ultimate Detective/Genius.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|722d5510-1731-11e8-8cb5-0e7e7f46fc68|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdWL9kK_EJFTJ9hRM-ddtuhvhD6O7ALSN8oLFkrXXQiYCgfz6GAo7i8G3nmuTa_pMrYl0H2HDgKoxSG1ZBIZVAD6AihT9bUNFUPkCUXMCR_HRuZ74KV9eipr.jpg?r=5c6",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5807,
+        "y": 0.2056
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045644}": {
+    "__typename": "Episode",
+    "videoId": 80045644,
+    "title": "Monster in the Closet",
+    "runtimeSec": 1272,
+    "shortSynopsis": "Amy goes into wedding-planning overdrive after Rosa and a freshly resurfaced Pimento decide to get married in just 14 hours' time.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|6f30e880-1732-11e8-a452-0e17d19522c2|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcArl1LMwB5SlBTYNB_CHU8pan3R1OW-K3JwMitIWm-sl9_OrM1M6pY4ZjC-l56olml4CMlLkfv0bOmkBrqIH-XC3G3sXbYDQqBWyAdK61GgyNGnaj6cUHHE.jpg?r=810",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.8599,
+        "y": 0.2046
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045645}": {
+    "__typename": "Episode",
+    "videoId": 80045645,
+    "title": "Mr. Santiago",
+    "runtimeSec": 1296,
+    "shortSynopsis": "As Thanksgiving approaches, a nervous Jake prepares to impress Amy's retired-cop father by researching his interests and compiling them in a binder.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|1d6e5540-1751-11e8-86a9-0eab410861fe|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaDEO2bkWxDg1aFOp3Xe8JhtbtWTyqquSc6kOSPs2hN1OS2Jk06NOn07Y_LtfLDvQH9YtJXgQ2D9Dwv4SffIGuxZuqpsS-ujhDWuoPPGBF5n9dbDSt9ohMIc.jpg?r=078",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6802,
+        "y": 0.2287
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045646}": {
+    "__typename": "Episode",
+    "videoId": 80045646,
+    "title": "Skyfire Cycle",
+    "runtimeSec": 1302,
+    "shortSynopsis": "Terry is all nerves when the precinct takes a case involving his lifelong idol, fantasy author D.C. Parlov. Kevin and Holt fight over a math puzzle.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|baea0990-1751-11e8-86a9-0eab410861fe|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXbXDLKY9uHy4cCZk8M7onVHacEr5XexZcmUajvalDHoZvoF3eI2oQ08EXQ-evXLrigSuaj0iNpQw3gbI82x9pan_oHQxvNewuN2J1XYV6AaYAVtEF6BmKPJ.jpg?r=4eb",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.187,
+        "y": 0.3231
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045647}": {
+    "__typename": "Episode",
+    "videoId": 80045647,
+    "title": "The Overmining",
+    "runtimeSec": 1302,
+    "shortSynopsis": "After C.J. loses important evidence, Holt convinces Jake to help him recover it. Tasked with saving power, Terry battles Gina over her space heater.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|d82bcf30-1737-11e8-8bb8-0edcc7ad027a|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTgTgZ2dH4muBpdcWwObVbT4cKg67Ae9khGZoXHkY0PU3wNeJVDmb62uuJXYbYob7_qK_FR-Ai4BtsF2jFGXozVsh5lIIQ2gZhJIREtNuvDxqGOHziYtbBhI.jpg?r=13e",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4995,
+        "y": 0.5
+      }
+    }
+  },
+  "Episode:{\"videoId\":80045648}": {
+    "__typename": "Episode",
+    "videoId": 80045648,
+    "title": "Captain Latvia",
+    "runtimeSec": 1281,
+    "shortSynopsis": "The squad competes against MTA officers in a holiday singing contest. Jake and Charles attempt to track down Nikolaj's favorite toy for Christmas.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|879dcdc0-871e-11f0-ad58-12b3e2a147d5|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU6ycwLjdNVAxFmurNVkIuE3pZLPSL5FBQ0OW-wOCnvYsklPXmU2pcnhHyIJh_a0B3EHzY0AzaokTGfgQxhFf_4TTY1Uw7oX_P0.jpg?r=ea1",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Season:{\"videoId\":80045638}": {
+    "__typename": "Season",
+    "videoId": 80045638,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 4",
+    "shortTitle": "Season 4",
+    "title": "Season 4",
+    "totalDisplayRuntimeInSec": 28364,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045639}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045640}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045641}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045642}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045643}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045644}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045645}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045646}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045647}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80045648}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217708}": {
+    "__typename": "Episode",
+    "videoId": 80217708,
+    "title": "The Big House: Part 1",
+    "runtimeSec": 1305,
+    "shortSynopsis": "Stuck behind bars, Jake lands in trouble over some delicious contraband. Rosa keeps Holt and Terry busy with a never-ending to-do list.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|b9f3fee0-5e20-11e8-8067-0e0ffebbc298|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfQ6NgDNJMhOJqGIfeCdETFyIY7v0eZSo2R59MljcoDpeyj_yiNYkNFTH9Fs6LPFaBmk509rq2EsKJ6faCAVHVFpwvxMS9Pcm5DH8Xu8h7cfUj38cQgsRYcv.jpg?r=f65",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6203,
+        "y": 0.225
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217709}": {
+    "__typename": "Episode",
+    "videoId": 80217709,
+    "title": "The Big House: Part 2",
+    "runtimeSec": 1323,
+    "shortSynopsis": "As the squad looks for ways to implicate the corrupt Lt. Hawkins, Jake puts his detective skills to work with help from his affable cannibal cellmate.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|f3234720-5e20-11e8-97da-12594e8d4930|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQKbAtgRDKeuxIc2ul5vM-AoRC6_LNTZW89R15cUeYsDydxOiXo_OJLmCOQPKiuEzxPZDsGETx7IwL7Bo5ikSkqSSbs_CgvbVZGHNqU2LHdiSv8Z9mQEP2BU.jpg?r=5e4",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3724,
+        "y": 0.387
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217710}": {
+    "__typename": "Episode",
+    "videoId": 80217710,
+    "title": "Kicks",
+    "runtimeSec": 1307,
+    "shortSynopsis": "Freed from prison and back on duty, Jake hunts for a sneaker thief under Holt's watchful eye. Meanwhile, Rosa suspects Pimento of infidelity.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|bdf95d70-5ec3-11e8-88a7-127819a595d6|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY-WjX9Gs4lSzFjd0-6CnWMwGsUfovF0SHfcoa-avMsDp68umUESAEVeKbxpZkdTQf7D3DkuS_e78o5rrfneHtExg3iSt-g5D77zuzyUBDSJIMTq6qm5NhmI.jpg?r=4d1",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5214,
+        "y": 0.2509
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217711}": {
+    "__typename": "Episode",
+    "videoId": 80217711,
+    "title": "HalloVeen",
+    "runtimeSec": 1291,
+    "shortSynopsis": "Jake pulls off a major surprise during the squad's annual Halloween heist, a cutthroat competition to claim the coveted title of Amazing Human/Genius.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|eb78eca0-7e66-11f0-bd6f-0eea5e412e6d|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSI5L31TE4F7wz_gmwYjVbYgrGmCjpmwIvu0B0kVAJtuFOD8pLlcmH0NZ0p_QS0fNfEYcHriwzeTm7gOVrQ6JPyHzx8IRD0WQjs.jpg?r=45d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Episode:{\"videoId\":80217712}": {
+    "__typename": "Episode",
+    "videoId": 80217712,
+    "title": "Bad Beat",
+    "runtimeSec": 1312,
+    "shortSynopsis": "An undercover operation brings out Holt's inner gambler. Rosa tries to out-laze Hitchcock and Scully. Charles buys a food truck with an unsavory past.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|cbe42920-5ed6-11e8-ba44-1287faf31054|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaeK77fx4t6JhyJjZDWWo-B_yg6PPpb3Hny4PzgKobGRqVMtl84wbOnfTZWkix8Yc5RDDOlBYlwNaqne_ZXCx5ez5T586zeqTIm9-3Hm7fsUFQ8h9Td6wS8i.jpg?r=15b",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4047,
+        "y": 0.2806
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217713}": {
+    "__typename": "Episode",
+    "videoId": 80217713,
+    "title": "The Venue",
+    "runtimeSec": 1310,
+    "shortSynopsis": "Nemeses plague the squad as Jake and Amy's big day gets derailed by the Vulture. Charles must find his missing equine foe, Sgt. Peanut Butter.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ac5d37d0-5ed7-11e8-88a7-127819a595d6|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYUZAwJdY3d-VsJt2in6CRO48P3ILZcynsarMml9eDQeskOdMnN6yJjdOSU9X2ywrejCqQqUDZhhzgqG_2M-BHwe_RCioXLw0xarFSCw5Fty-HrDVfcEnmoK.jpg?r=60d",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7656,
+        "y": 0.3685
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217714}": {
+    "__typename": "Episode",
+    "videoId": 80217714,
+    "title": "Two Turkeys",
+    "runtimeSec": 1312,
+    "shortSynopsis": "On Thanksgiving, alcohol provides a temporary fix to Jake and Amy's parental problems, and a pilfered pie awakens the ruthless interrogator in Holt.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|2e1735a0-5ed8-11e8-b193-0a9e2f97a706|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXRqjvrOwtk42GyL5gI8PGLr3qyxNmAsIMuoIrnAmgQyvwGq9HrYF0r6Nnrv1hAVg-4XkNn9NzM33m-AJtv6QsL08YTUVlaHkswQHDStxdVzD_vf1YJLDtB_.jpg?r=318",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5161,
+        "y": 0.2926
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217715}": {
+    "__typename": "Episode",
+    "videoId": 80217715,
+    "title": "Return to Skyfire",
+    "runtimeSec": 1314,
+    "shortSynopsis": "Jake and Terry go undercover at a costume-packed fan convention when their favorite fantasy author reports his much-anticipated manuscript stolen.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|e277a980-5ed8-11e8-8067-0e0ffebbc298|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeK3jGu4l84kQ_FuZm7rET9xeJMlEXYxcy14oj0NQVSKg7cRzZJz5I9-m-QvMk0KXtiUyeBU-o7WSK9drOJLzDpZnf5qbyQsM250-N4osoKinbRrf6s13dBT.jpg?r=b4e",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3302,
+        "y": 0.3713
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217716}": {
+    "__typename": "Episode",
+    "videoId": 80217716,
+    "title": "99",
+    "runtimeSec": 1311,
+    "shortSynopsis": "After missing their flight home from a funeral in LA, Jake and the squad scramble to get Holt back to New York in time for a big interview.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|25be3c90-62e4-11e8-874e-0eb0fd1fe1cc|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWke9SoAiMGEr3HsTNnlRtvCdm_RoZADLJTvTLT7PCTQwSukERolcguO0jc4i67B-8zUS8u-TtR9R4P19B-pl40bRUx2DjpQ3Yavhg4mSktLC2KFMuNppuX2.jpg?r=64c",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5896,
+        "y": 0.3565
+      }
+    }
+  },
+  "Episode:{\"videoId\":80217717}": {
+    "__typename": "Episode",
+    "videoId": 80217717,
+    "title": "Game Night",
+    "runtimeSec": 1311,
+    "shortSynopsis": "Intensely private Rosa shares personal news with the team but wants Jake's help to tell her parents. Cyber Crimes steals the Nine-Nine's bandwidth.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ba1ceba0-6301-11f0-8c76-0affe7ab7f1b|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABctzPeC2CNGMEKI9OfEqolpqpedWDFPWtEje0voQm-TZiJib6-gFq6XteZdC2edksc3j9-faxtRBoGCri6_JIwGDmgSDeJ8WXUk.jpg?r=9ba",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Season:{\"videoId\":80199317}": {
+    "__typename": "Season",
+    "videoId": 80199317,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 5",
+    "shortTitle": "Season 5",
+    "title": "Season 5",
+    "totalDisplayRuntimeInSec": 28810,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217708}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217709}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217710}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217711}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217712}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217713}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217714}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217715}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217716}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":80217717}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085942}": {
+    "__typename": "Episode",
+    "videoId": 81085942,
+    "title": "Honeymoon",
+    "runtimeSec": 1302,
+    "shortSynopsis": "An unexpected third wheel puts a damper on Jake and Amy's tropical honeymoon. Back at the Nine-Nine, Terry experiences a crisis of confidence.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|5a21f2f0-57cc-11e9-a715-0ec8bbbe9f3e|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW-su8_I-YB2s2oSQn3TpZO4ifIJkq_dxgp01UwtLMjmfuLwUIIt1Jrrq9t8YlzojUQIy9P-A276NspiWaT1-bFEYG1MP7Ocb3xXOHCIx9GFdNzA09WaJ-cb.jpg?r=075",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6323,
+        "y": 0.5194
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085943}": {
+    "__typename": "Episode",
+    "videoId": 81085943,
+    "title": "Hitchcock & Scully",
+    "runtimeSec": 1303,
+    "shortSynopsis": "Jake and Charles discover Scully and Hitchcock weren't always supersedentary pencil pushers, and the precinct's cramped quarters make tempers flare.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|89204460-57d3-11e9-b5ff-0efced58499c|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQNI4w5tnep-F1CwV5je1NAJRlttxXT5ptAVI_L05QANdPvXt6HcRHQgNKaagjNnbYsTCyjIvh_A3CZEqJbaWUTvm7v_OA1DAKtFcLRT20e9PJHvbk9K-OEi.jpg?r=5d1",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.587,
+        "y": 0.3352
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085944}": {
+    "__typename": "Episode",
+    "videoId": 81085944,
+    "title": "The Tattler",
+    "runtimeSec": 1303,
+    "shortSynopsis": "At Jake and Gina's high school reunion, he investigates an old accusation while she spins a web of lies. Charles helps Rosa with a romantic dilemma.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|83247bb0-57ee-11e9-a715-0ec8bbbe9f3e|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX94RzmAt-1VVOob9U8GPRo2YG1bluFqCNCAgaw-cSZetvcJLYfbzx1AJNdlh1NEUWc03Ebk9r4tSqxQqqqS5Ob7oVtRgBaA1UsJehNWaYQJ-hqqClu3Ss84.jpg?r=83f",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6021,
+        "y": 0.3991
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085945}": {
+    "__typename": "Episode",
+    "videoId": 81085945,
+    "title": "Four Movements",
+    "runtimeSec": 1302,
+    "shortSynopsis": "After Gina makes a life-changing decision, she bestows a series of gifts on the squad. But first, an interpretive dance...",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|89f3d7b0-5839-11e9-97ef-12b7d01645d4|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTBGBSeLUwSYBHW50mZTipG0YmlZoPDe06cEaZ3_pmCG6Mv0F3V_OA9D0HnmCTlqe38ZNEGDMYicQjgDmAfjctgO4hLOao31iGx4oJp_cZiF3sLc5KFS9AYT.jpg?r=4fd",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6479,
+        "y": 0.4398
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085946}": {
+    "__typename": "Episode",
+    "videoId": 81085946,
+    "title": "A Tale of Two Bandits",
+    "runtimeSec": 1303,
+    "shortSynopsis": "Jake investigates a series of car thefts that point to an old frenemy. Meanwhile, the squad defends their favorite bar from interlopers.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|c56b99b0-57d3-11e9-b5ff-0efced58499c|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfvFwZDwFH02qUsxSisE_vfQP8nUJQtSMMjgfSMnvMvCwjbnmk3CDcy30OGUM2zzAPsCC1yH7n7N_UHei1nE0P258vZ0ukP-unlPgbqjkj29LMnboSQDktQX.jpg?r=2a1",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5057,
+        "y": 0.3019
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085947}": {
+    "__typename": "Episode",
+    "videoId": 81085947,
+    "title": "The Crime Scene",
+    "runtimeSec": 1300,
+    "shortSynopsis": "A promise made to a grieving mother sends Jake spiraling into obsession as he and Rosa comb the scene of a baffling murder for clues.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|21be6f40-5805-11e9-8de8-0a292e297474|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRduosK9v1glFYqC2E2jXI7PGj_xSFGrB--G8JQrm2B1JC30Cm2GTepRMzkPen--OfbiZR3LZGA5z4LcOg-_ppv6TKjFgh6MUO51bvNx-KLQ86mJ1rokyOPt.jpg?r=eac",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5792,
+        "y": 0.312
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085948}": {
+    "__typename": "Episode",
+    "videoId": 81085948,
+    "title": "The Honeypot",
+    "runtimeSec": 1303,
+    "shortSynopsis": "Holt and Jake become suspicious of a new Nine-Nine employee. Amy goes full-on Marie Kondo to declutter the bullpen.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|61f9e120-581e-11e9-bac1-129d56e3fdee|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABThBC8b2_nFC8vldSAZaXrwvPIOoiHo9wtaM_45dHxl12Lv3gMBGY_fXWOliVcRewVYywnYbb_UuzckIaHm6y2XuLN9rqhz0nUlqPjpFyBsYJsb7KZAM-WnH.jpg?r=d0a",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.2953,
+        "y": 0.5843
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085949}": {
+    "__typename": "Episode",
+    "videoId": 81085949,
+    "title": "He Said, She Said",
+    "runtimeSec": 1304,
+    "shortSynopsis": "Amy and Jake hear conflicting stories as they investigate a sexual assault accusation. Holt refuses to believe an old nemesis is really dead.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|260e2940-5824-11e9-9175-0e4c0307b682|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXkKMXA_QIt4JVzMUG10JT48wUFtflUriYwUCgimEwf6_-6JB4z6TSM6p-M9qDcV8C9KyuufZ3uA8w6iImHtrpqML7gOWtuF5XsXQvUBLZJpMCv_tW8KBKpX.jpg?r=714",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.263,
+        "y": 0.6083
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085950}": {
+    "__typename": "Episode",
+    "videoId": 81085950,
+    "title": "The Golden Child",
+    "runtimeSec": 1301,
+    "shortSynopsis": "Amy's rivalry with her annoyingly perfect brother escalates during a family dinner. Charles holds auditions for an undercover assignment.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|79bb6590-bf2d-11eb-9049-0ad43244001b|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXRXiT6jccw22joY8t0IKXXTB69i6up0CDv_7nkD_dh0PZpQh8gsD1fBDC6-HHglk2V5wcr6BXTD2yKHWluD2gm7CCONw4vzNi03NjvruIZt5io14qE-9_Iq.jpg?r=9c6",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5568,
+        "y": 0.5102
+      }
+    }
+  },
+  "Episode:{\"videoId\":81085951}": {
+    "__typename": "Episode",
+    "videoId": 81085951,
+    "title": "Gintars",
+    "runtimeSec": 1301,
+    "shortSynopsis": "When one of Nikolaj's relatives unexpectedly appears, Charles turns to best bud Jake for support. Holt and Amy go starry-eyed over a forensic expert.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|45cd2e40-57e6-11e9-b2f4-0a2aa8e045e8|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfyVl0l3yK-qcWdWlbxS2FsVWCzYb1-c4SRRYSsWyoYPiv58FLBOxSh_1SZl_-0MELwHzS0lEQFVh9dmsCwgrDz7dGD-lxGOLtPbkfvO2-w7w3CVegU_9VzU.jpg?r=28f",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4375,
+        "y": 0.4083
+      }
+    }
+  },
+  "Season:{\"videoId\":81069937}": {
+    "__typename": "Season",
+    "videoId": 81069937,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 6",
+    "shortTitle": "Season 6",
+    "title": "Season 6",
+    "totalDisplayRuntimeInSec": 23443,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085942}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085943}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085944}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085945}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085946}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085947}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085948}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085949}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085950}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81085951}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249373}": {
+    "__typename": "Episode",
+    "videoId": 81249373,
+    "title": "Manhunter",
+    "runtimeSec": 1309,
+    "shortSynopsis": "Jake finds his authority tested and thunder stolen by a beat-walking Holt amid a critical search. Amy turns to Rosa for support during a personal crisis.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|c5c818e0-e098-11ee-a313-0ecf58673369|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABROXr535waXX3fWCNRWBapxbWToiTyMc8V4-batTGNvg_wn8NS8whgVjHiYtltyIopEJz7YfSdBhTtsvIY3Ne-psEkb1JExLoEe7XmG4dyNXFb11erGuJ3YA.jpg?r=8ed",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4849,
+        "y": 0.2954
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249374}": {
+    "__typename": "Episode",
+    "videoId": 81249374,
+    "title": "Captain Kim",
+    "runtimeSec": 1311,
+    "shortSynopsis": "When an interim captain arrives at the Nine-Nine, Jake sets out to prove she's way too good to be true. Charles rebrands his image.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|625c1730-e097-11ee-b549-0ede983d3081|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABU5XbT8Vl0Cq2w8Ccqjiw6ZbrRqDhBi-IxsuW3cCuoS1jY1UzedE6lqpnW2gPZyVGahAoCVblkRpD3lvwONIcBt_qsDhqbaijjFYMDhty0g_NNr_5C6qI7SC.jpg?r=d32",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5891,
+        "y": 0.263
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249375}": {
+    "__typename": "Episode",
+    "videoId": 81249375,
+    "title": "Pimemento",
+    "runtimeSec": 1310,
+    "shortSynopsis": "Adrian Pimento resurfaces with a \"Finding Dory\"-esque memory problem. Jake tries to keep a secret from Charles. The squad attends a mandatory HR seminar.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ad96ee10-e096-11ee-b321-12eb482a5b27|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXwJ1WtRp4MwSejJKjdV18h9FHvDp-CziUh5U4hOkhL9XHT_YCaVjAl8u32qgqA3tH57CiZlr5HMy_32_i5pXeuhr34BrAiBQSqmosRD3F78D539nEnOn5U_.jpg?r=a07",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5443,
+        "y": 0.2935
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249376}": {
+    "__typename": "Episode",
+    "videoId": 81249376,
+    "title": "The Jimmy Jab Games II",
+    "runtimeSec": 1300,
+    "shortSynopsis": "Jake revives the Jimmy Jab Games, with Charles going full-on P.T. Barnum as host of the competition and Holt's timid new partner reluctantly joining in.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|a506b450-e0b0-11ee-877c-12d1252cd1f3|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdIUeY7glzStJYsTFF_polDaYXqm1_rGBD_JX6NhPR-WHb0hapcocjiK_EG-vjTLnAtvHFUPqWgDTENzJmpoxB55hOS2dVZ5ePkCzwBpiuzXwF7JyMu8TZt7.jpg?r=88f",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4792,
+        "y": 0.2708
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249377}": {
+    "__typename": "Episode",
+    "videoId": 81249377,
+    "title": "Debbie",
+    "runtimeSec": 1311,
+    "shortSynopsis": "The squad suspects an inside job when guns and cocaine connected to a notorious crime boss go missing from the Nine-Nine.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|3e6fb040-e095-11ee-a313-0ecf58673369|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSuP3SNDI8FpbMsMpVwIQuEu_o_HwWmAIYl_4kww2N9p5y9CwwBOOFQ7f3VrDmfQz8k0by7Bk0EfpQna4TApDkBIqAkj4u0SeDQRxNRl7yHM53tMGYtytIIN.jpg?r=398",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5005,
+        "y": 0.4
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249378}": {
+    "__typename": "Episode",
+    "videoId": 81249378,
+    "title": "Trying",
+    "runtimeSec": 1311,
+    "shortSynopsis": "Time flies as Jake and Amy focus on their family plans. Holt bristles over his tedious new job. A tooth-wielding Hitchcock searches for his Cinderella.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|e04b09a0-e09f-11ee-b193-0affd23b86a7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTaQCRdb9KAsNh3XSu3qMX7d9ymn5aYIsmA0lmDnN6qU0_zvdC1KNmVIzp_c847Pwczn2ekfb7ykKMjKco52QMWW-gKSXyAfFM_1GGUVwd-SNgMmvDB0XeNa.jpg?r=c39",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3708,
+        "y": 0.3685
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249379}": {
+    "__typename": "Episode",
+    "videoId": 81249379,
+    "title": "Ding Dong",
+    "runtimeSec": 1310,
+    "shortSynopsis": "Holt risks his career by refusing to let his greatest nemesis have the last word. Charles and Terry compete for Jake's tickets to an exclusive kid event.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|cf8edc30-e091-11ee-b549-0ede983d3081|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZHsvH_yJVqp0wgj2C5qNgixYEB-PN8lm0E7bkEWXS9ADQ_WHeG-ED2aE0DQOEx4Dwt7GXLPu3MYmTbGnmm57dwXGIOz_MC73oibxeSO-S2SPSl7zwpTJG0E.jpg?r=c08",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.451,
+        "y": 0.5213
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249380}": {
+    "__typename": "Episode",
+    "videoId": 81249380,
+    "title": "The Takeback",
+    "runtimeSec": 1311,
+    "shortSynopsis": "The reappearance of Doug Judy lands Jake in hot water. Terry scrambles to replace Holt's treasured keepsake. The Nine-Nine gets a new vending machine.",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|ff2d85f0-e090-11ee-95e5-12c9b9e52c3d|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX6mf8Xr986u0Vk0WMExxvDU2n8xIYaxRQ5j_X2UGY2j66Awc-iCxkfrhoVKAJ0sL8wb0i8PrDqDufhn4a6HXQbkyAxU0pz912Ek1e_lPm1WDVyYpHczTLM8.jpg?r=84c",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5198,
+        "y": 0.3796
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249381}": {
+    "__typename": "Episode",
+    "videoId": 81249381,
+    "title": "Dillman",
+    "runtimeSec": 1311,
+    "shortSynopsis": "When an apparent prank destroys a key piece of evidence, Holt taps the best detective he knows to interrogate the squad and bring the culprit to justice.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|4b6a1560-e090-11ee-b193-0affd23b86a7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdEivox-WOM2uKEw4ElTMoXumggcVZwIptzUn-8ffodLIfJWhmX37QsmjWG4owcz1KyRX7C7gRCIn-JsG24lZ9OcxWOhkUyHVANMjvB8iSgzgJCEW2yB-pYc.jpg?r=e7e",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4125,
+        "y": 0.2935
+      }
+    }
+  },
+  "Episode:{\"videoId\":81249382}": {
+    "__typename": "Episode",
+    "videoId": 81249382,
+    "title": "Admiral Peralta",
+    "runtimeSec": 1312,
+    "shortSynopsis": "Jake doubles down on his daddy issues during a tense family reunion. Holt turns into a musical taskmaster over Terry's audition with the NYPD band.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|a2c62b70-e0b6-11ee-8027-0e6069e78e43|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTFl6FYN4IRljz6eBRONma3febYPBYhtuytj14gUf2YUl7rPrkjlxSVL1EScdNKqYtGDLmSvxLMDp7SXtKiScoWjGSn76P91PHzRcyRQBKOBwKKCuxPM8wDb.jpg?r=00f",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5354,
+        "y": 0.3921
+      }
+    }
+  },
+  "Season:{\"videoId\":81249372}": {
+    "__typename": "Season",
+    "videoId": 81249372,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 7",
+    "shortTitle": "Season 7",
+    "title": "Season 7",
+    "totalDisplayRuntimeInSec": 16929,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249373}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249374}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249375}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249376}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249377}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249378}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249379}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249380}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249381}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81249382}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498364}": {
+    "__typename": "Episode",
+    "videoId": 81498364,
+    "title": "The Good Ones",
+    "runtimeSec": 1323,
+    "shortSynopsis": "Jake helps Rosa with a challenging investigation. Amy becomes concerned after Holt engages her in small talk. Charles goes overboard supporting Terry.",
+    "number": 1,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|75d7d030-e15d-11ee-b549-0ede983d3081|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbPxHD15BkQv39OPGcwSIl57iklJ-9ViAHnqz4aABgA0nVD3Ov45q5LnWilO55CrcTSi-CyF-4of0-tksahbN3Rqgsm8NdOarqWCVkq37d1hVzB66X42EVkQ.jpg?r=4a3",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7203,
+        "y": 0.3139
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498365}": {
+    "__typename": "Episode",
+    "videoId": 81498365,
+    "title": "The Lake House",
+    "runtimeSec": 1303,
+    "shortSynopsis": "Using \"The Parent Trap\" and his own deep-seated daddy issues for inspiration, Jake meddles in Holt's love life during a weekend bird-watching getaway.",
+    "number": 2,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|351c5d40-e162-11ee-aa63-120ae8ff0553|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZK1KKUuD84LIS5rShgMORt61Z9Mvav6FWAvDEVSQakLfiBCbMpNxZVjSE8UYHvLJFxT-1DTmoopMBEyAcokM8yLdSeFyZgjzCUb1eFF2xyTIrdmkb9zdS0K.jpg?r=456",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4396,
+        "y": 0.6898
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498366}": {
+    "__typename": "Episode",
+    "videoId": 81498366,
+    "title": "Blue Flu",
+    "runtimeSec": 1306,
+    "shortSynopsis": "When an alleged burrito-tampering incident leads to a walkout of uniformed officers, Holt spearheads a multipronged investigation.",
+    "number": 3,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|0055e730-e17f-11ee-bacd-0e3a8b26896f|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWNoaA08WrWWoj7HgrGw5Y1vOiHSyWIIwSNuyossljTDdWHS9PC9oh8X76bK-S-cSTa-iV8i2wMZzRBnmuohHFqrSyEHfczElo17BGpbpOMVgkHNce3yxcmz.jpg?r=431",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5836,
+        "y": 0.4852
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498367}": {
+    "__typename": "Episode",
+    "videoId": 81498367,
+    "title": "Balancing",
+    "runtimeSec": 1308,
+    "shortSynopsis": "Jake and Amy face a childcare crisis as he chases elusive serial killer Johnny Franzia and she prepares to present her NYPD reform proposal.",
+    "number": 4,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|11711050-6255-11f0-a2af-0e73ed22889b|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfQf6eyJgfnXPbhTJlhM7KX5z8fRMKVa5H5VptDc2kDSQbE2-mGN29GSe0-WRpfM3UX36EmO1LIqUcqNKev6iftUjxRA8wjrVdU.jpg?r=c45",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    }
+  },
+  "Episode:{\"videoId\":81498371}": {
+    "__typename": "Episode",
+    "videoId": 81498371,
+    "title": "PB & J",
+    "runtimeSec": 1291,
+    "shortSynopsis": "The Pontiac Bandit rides again when Jake offers to transport beloved but wily pal Doug Judy to prison so they can have one last adventure.",
+    "number": 5,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|45f491a0-e185-11ee-8fd5-0afff511982b|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaSF1Z1Le5h9tOiQhqDSJcuRocp8uIHxAWzkuwrpL_7OSvfi53vAaLj57hujqQMpkMoOOLOpZFaB14jFf9wjIK6PnaZUspf3ThIqFXo__mWhkUEdXkuQGHJE.jpg?r=709",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.3224,
+        "y": 0.2981
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498368}": {
+    "__typename": "Episode",
+    "videoId": 81498368,
+    "title": "The Set Up",
+    "runtimeSec": 1317,
+    "shortSynopsis": "Jake butts in on an investigation into a bomb on a bus. Amy and Rosa hit a bar with O'Sullivan. Terry and Charles compete for Scully's candy business.",
+    "number": 6,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|be9cc010-e193-11ee-8a12-0ed17eef50df|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXwUWR1FJw_fHrSg7WOsYdL-utGPhJq_u760r9fJVEFtQe-l13htzwaXLOdFCYYvO3TPFn_K-yDxGS3Le6qpyp1TPBSge2wqNQnLXeOajUENzYZQ8ZwvegSn.jpg?r=efb",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.7716,
+        "y": 0.2519
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498370}": {
+    "__typename": "Episode",
+    "videoId": 81498370,
+    "title": "Game of Boyles",
+    "runtimeSec": 1420,
+    "shortSynopsis": "Jake and Terry accompany Charles to the funeral of his great-uncle Pappy \u00e2\u0080\u0094 and uncover a family secret. Rosa nudges Holt back into the dating pool.",
+    "number": 7,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|4c6e1290-e22a-11ee-8fd5-0afff511982b|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdzd6tcf6htd1HvfbE7nxaEZkD7_va32It9Yeatr8JMzVdspdgCESIOXbn6imT8-XhCIoJGU33mjZLCHNK9Nv8C6g2ni7lYXynwLlHPbMrTKOO9SyHpbcZ16.jpg?r=fc4",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5911,
+        "y": 0.3509
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498369}": {
+    "__typename": "Episode",
+    "videoId": 81498369,
+    "title": "Renewal",
+    "runtimeSec": 1323,
+    "shortSynopsis": "Amid planning for a vow renewal ceremony, Holt makes a big announcement \u00e2\u0080\u0094 one that he asks Jake not to share with Amy. Plus, Cheddar wears a bow tie!",
+    "number": 8,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|36d67c60-e23e-11ee-abb6-0affe894c209|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABViZbW0Dkzh6-4ORSimrSc8lBz2PuOzliYvKMYBTgU8Y1eXBYczKXAOFSY2RstY32km0WNkI42Bw2Ka-nM_-tEzQGMxC1EbL9Qpu-0cAq1qmKI0ei6Q872sF.jpg?r=92f",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.5026,
+        "y": 0.3185
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498372}": {
+    "__typename": "Episode",
+    "videoId": 81498372,
+    "title": "The Last Day: Part 1",
+    "runtimeSec": 1328,
+    "shortSynopsis": "Jake organizes one final heist to mark the major changes happening at the squad. At stake: the title of Grand Champion of the Nine-Nine.",
+    "number": 9,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|2dada9f0-e249-11ee-8138-12646799ab9f|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQDpmX6cFSdl7SYpEm4aqo9jgu9Zo_NU5lnYTMktxrqL_lmbV5avbWnrtbugEqPhJFPICzZ8mT7HtvTPcoYmwXhK76MRHdpssmZ7ed-MiF5BrQXodV4gbB4T.jpg?r=442",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4438,
+        "y": 0.3731
+      }
+    }
+  },
+  "Episode:{\"videoId\":81498373}": {
+    "__typename": "Episode",
+    "videoId": 81498373,
+    "title": "The Last Day: Part 2",
+    "runtimeSec": 1492,
+    "shortSynopsis": "The last heist continues its trip through the squad's most memorable moments with still more shocking twists, surprise reveals and a perfect goodbye.",
+    "number": 10,
+    "artwork({\"params\":{\"artworkType\":\"MERCH_STILL\",\"dimension\":{\"width\":300},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "MERCH_STILL|da7bedc0-e250-11ee-922e-0affc729579f|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdmsopfZVBjjpFwYMKHbkl0-l_NNlVQUsXHeGFx7Uob1lfLt6yVgc_ApEQbJNxEmrkxigiy3zA8DkfdHo_EWrikBFKUahwauTAj_zXGyA-cIFuv2m9aGWHM2.jpg?r=306",
+      "width": 300,
+      "height": 169,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.4807,
+        "y": 0.6111
+      }
+    }
+  },
+  "Season:{\"videoId\":81498363}": {
+    "__typename": "Season",
+    "videoId": 81498363,
+    "numberLabelV2({\"label\":\"LONG\"})": "Season 8",
+    "shortTitle": "Season 8",
+    "title": "Season 8",
+    "totalDisplayRuntimeInSec": 13411,
+    "showMemberType": "SEASON",
+    "episodes": {
+      "totalCount": 0,
+      "__typename": "EpisodesConnection",
+      "edges": [
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498364}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498365}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498366}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498367}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498371}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498368}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498370}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498369}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498372}"
+          }
+        },
+        {
+          "__typename": "EpisodeEdge",
+          "node": {
+            "__ref": "Episode:{\"videoId\":81498373}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "Show:{\"videoId\":70281562}": {
+    "__typename": "Show",
+    "videoId": 70281562,
+    "title": "Brooklyn Nine-Nine",
+    "shortSynopsis": "Talented but laid-back detective Jake Peralta and his dysfunctional peers struggle to get along under their precinct's strict new captain.",
+    "hasOriginalTreatment": false,
+    "artwork({\"params\":{\"artworkType\":\"BILLBOARD\",\"dimension\":{\"width\":1280},\"features\":{\"fallbackStrategy\":\"STORY_ART\",\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "BILLBOARD|3c9dd8a0-fb7f-11ee-9044-0e137b5314c7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdPwe0t8b_0ImFQDrnoM3eKf9w6ImoLRwe92GEsifnhy3IwCyUAwwrgmQmnTSGagfkF3NoUrucdLxBezI2vqogVh24odhUjvr_fX.jpg?r=53c",
+      "width": 1280,
+      "height": 720,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6523,
+        "y": 0.4167
+      }
+    },
+    "promoVideo({\"context\":{\"uiContext\":\"BILLBOARD\"}})": {
+      "__ref": "PromoVideo:{\"id\":82067700}"
+    },
+    "availabilityStartTime": "2026-04-19T22:00:00.000Z",
+    "persons:{\"roles\":\"ACTOR\"}": {
+      "totalCount": 0,
+      "__typename": "PersonConnection",
+      "edges": [
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30057072}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":20001171}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30195075}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":20055888}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30201020}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30078642}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":20060137}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":20058012}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30201021}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "persons:{\"roles\":\"DIRECTOR\"}": {
+      "totalCount": 0,
+      "__typename": "PersonConnection",
+      "edges": [],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "persons:{\"roles\":\"CREATOR\"}": {
+      "totalCount": 0,
+      "__typename": "PersonConnection",
+      "edges": [
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30205100}"
+          }
+        },
+        {
+          "__typename": "PersonEdge",
+          "node": {
+            "__ref": "Person:{\"personId\":30138911}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "coreGenres": {
+      "__typename": "GenreConnection",
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "__typename": "GenreEdge",
+          "node": {
+            "__ref": "Genre:{\"genreId\":1305630}"
+          }
+        }
+      ]
+    },
+    "contentAdvisory": {
+      "__typename": "ContentAdvisory",
+      "certificationValue": "12"
+    },
+    "latestYear": 2021,
+    "seasons": {
+      "totalCount": 8,
+      "__typename": "SeasonsConnection",
+      "edges": [
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":80004160}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":80011571}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":80028262}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":80045638}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":80199317}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":81069937}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":81249372}"
+          }
+        },
+        {
+          "__typename": "SeasonEdge",
+          "node": {
+            "__ref": "Season:{\"videoId\":81498363}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "supplementalVideosList:{\"types\":[\"TRAILER\",\"TEASER_TRAILER\"]}": {
+      "totalCount": 0,
+      "__typename": "SupplementalsConnection",
+      "edges": [],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "genres": {
+      "totalCount": 0,
+      "__typename": "GenreConnection",
+      "edges": [
+        {
+          "__typename": "GenreEdge",
+          "node": {
+            "__ref": "Genre:{\"genreId\":10375}"
+          }
+        },
+        {
+          "__typename": "GenreEdge",
+          "node": {
+            "__ref": "Genre:{\"genreId\":26146}"
+          }
+        }
+      ],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    },
+    "isAvailableForDownload": true,
+    "tags": [
+      {
+        "__ref": "EntityTag:{\"id\":81331731}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":105023}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":108730}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":417850}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":81496962}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":104928}"
+      },
+      {
+        "__ref": "EntityTag:{\"id\":100183}"
+      }
+    ],
+    "tudumTitle": null,
+    "mediaTracks": {
+      "__typename": "MediaTracks",
+      "audioTracks": [
+        {
+          "__typename": "AudioTrack",
+          "language": "German"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "English - Audio Description"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "English [Original]"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "Spanish (Spain)"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "French"
+        },
+        {
+          "__typename": "AudioTrack",
+          "language": "Turkish"
+        }
+      ],
+      "subtitles": [
+        {
+          "__typename": "TimedTextTrack",
+          "language": "English"
+        },
+        {
+          "__typename": "TimedTextTrack",
+          "language": "Spanish (Spain)"
+        },
+        {
+          "__typename": "TimedTextTrack",
+          "language": "French (Canada)"
+        },
+        {
+          "__typename": "TimedTextTrack",
+          "language": "Indonesian"
+        },
+        {
+          "__typename": "TimedTextTrack",
+          "language": "Dutch"
+        }
+      ]
+    },
+    "taglineMessages({\"taglineRequest\":{\"supportsMessageBadging\":true,\"typedUiContext\":\"LOGGED_OUT_DP\"}})": [
+      {
+        "__typename": "TaglineMessage",
+        "tagline": "",
+        "badgePrefix": null,
+        "renderCountdownTimer": false
+      }
+    ],
+    "allTaglineMessagesByEventState({\"supportedCapabilities\":{\"canHandleLiveEventState\":true},\"taglineRequest\":{\"supportsMessageBadging\":true,\"typedUiContext\":\"LOGGED_OUT_DP\"}})": null,
+    "nextEventWindow": null,
+    "artwork({\"params\":{\"artworkType\":\"LOGO_HORIZONTAL_CROPPED\",\"dimension\":{\"width\":350},\"features\":{\"nonMemberBranding\":true},\"format\":\"PNG\"}})": {
+      "__typename": "Image",
+      "key": "LOGO_HORIZONTAL_CROPPED|8232a591-e620-11e9-abfb-12bb0ab1475a|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABfm776kOJaW0H8JKy_uUodO0_d3edQMfOtasFan01mjlWWost-KizHKDO1T9S6fCKrPB_nGlDT0jy-XJ6GRBLlZ_uhuWy-OofiE.png?r=8f4",
+      "width": 383,
+      "height": 212,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": null
+    },
+    "artwork({\"params\":{\"artworkType\":\"BRAND_LOGO_CROPPED\",\"dimension\":{\"height\":48},\"features\":{\"nonMemberBranding\":true,\"tone\":\"LIGHT\"},\"format\":\"PNG\"}})": null,
+    "isAvailable": true,
+    "nextLiveEvent": null,
+    "allTaglineMessagesByEventState({\"supportedCapabilities\":{\"canHandleLiveEventState\":false},\"taglineRequest\":{\"supportsMessageBadging\":true,\"typedUiContext\":\"EPISODE_LIST\"}})": null,
+    "artwork({\"params\":{\"artworkType\":\"ECLIPSE_BILLBOARD_REDUX\",\"dimension\":{\"width\":1920},\"features\":{\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "ECLIPSE_BILLBOARD_REDUX,BILLBOARD|3c9dd8a0-fb7f-11ee-9044-0e137b5314c7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABbQYdcTcfL9YyM6yfT2bKvM_gDp_J0j7Shdt24xJpajPmR_JF0PeYq74VFtblrjSMuTtXtkqFVu0_898G9WmQNhKEtZW6_oTui3xj2wS6LchFt6fxmnstliRGw.jpg?r=53c",
+      "width": 1920,
+      "height": 878,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6523,
+        "y": 0.4167
+      }
+    },
+    "artwork({\"params\":{\"artworkType\":\"ECLIPSE_BILLBOARD_REDUX\",\"dimension\":{\"width\":1280},\"features\":{\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "ECLIPSE_BILLBOARD_REDUX,BILLBOARD|3c9dd8a0-fb7f-11ee-9044-0e137b5314c7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/MgXQGyNr1xbI8tJSYiMWv5kXg5g/AAAABcL-X0xViu6g6wB9zWmgLtvuqV-SpMNdcA6sOMRASpIdiDT2bofnHbknf1hHY0WAxCkJDAofJ8VQ18TB0p-QeEkoOseuk_cdbDigfjsiCxxnOndJo1QI1IJkUg.jpg?r=53c",
+      "width": 1280,
+      "height": 585,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6523,
+        "y": 0.4167
+      }
+    },
+    "artwork({\"params\":{\"artworkType\":\"BILLBOARD\",\"dimension\":{\"width\":960},\"features\":{\"fallbackStrategy\":\"STORY_ART\",\"nonMemberBranding\":true},\"format\":\"JPG\"}})": {
+      "__typename": "Image",
+      "key": "BILLBOARD|3c9dd8a0-fb7f-11ee-9044-0e137b5314c7|en",
+      "url": "https://occ-0-6143-769.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWUHmDEWellF8N4FxNqqyfvRITfzR6Bu2QK6VnLVph9XR2kGIx7dPG4t3Z-AxBxDSTXqzDx6ziTqfBB_uv65vapa6VM6NzC2-puT.jpg?r=53c",
+      "width": 992,
+      "height": 559,
+      "available": true,
+      "status": "RESOLVED",
+      "focalPoint": {
+        "__typename": "Point",
+        "x": 0.6523,
+        "y": 0.4167
+      }
+    },
+    "taglineMessages({\"taglineRequest\":{\"typedUiContext\":\"ODP\"}})": [
+      {
+        "__typename": "TaglineMessage",
+        "tagline": "",
+        "typedClassification": "REGULAR"
+      }
+    ],
+    "similarVideos": [
+      {
+        "__ref": "Show:{\"videoId\":80157073}"
+      },
+      {
+        "__ref": "Movie:{\"videoId\":81004274}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":81026218}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":80117694}"
+      },
+      {
+        "__ref": "Movie:{\"videoId\":70167067}"
+      },
+      {
+        "__ref": "Movie:{\"videoId\":60003509}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":81520490}"
+      },
+      {
+        "__ref": "Movie:{\"videoId\":70140922}"
+      },
+      {
+        "__ref": "Show:{\"videoId\":80234451}"
+      }
+    ],
+    "numSeasonsLabel": "8 Seasons",
+    "primaryGenres": {
+      "__typename": "GenreConnection",
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false
+      },
+      "edges": [
+        {
+          "__typename": "GenreEdge",
+          "node": {
+            "__ref": "Genre:{\"genreId\":81746416}"
+          }
+        }
+      ]
+    },
+    "contentWarning": null,
+    "supplementalVideosList:{\"uiContext\":\"CLIPS\"}": {
+      "totalCount": 0,
+      "__typename": "SupplementalsConnection",
+      "edges": [],
+      "pageInfo": {
+        "__typename": "PageInfo",
+        "hasNextPage": false,
+        "hasPreviousPage": false,
+        "startCursor": "",
+        "endCursor": ""
+      }
+    }
+  },
+  "ROOT_QUERY": {
+    "__typename": "Query",
+    "growthVideoCollections({\"collectionsInput\":{\"collectionInputs\":[{\"collectionType\":\"TRENDING_NOW\",\"limit\":10}]}})": {
+      "__typename": "GrowthVideoCollections",
+      "collections": [
+        {
+          "__typename": "GrowthVideoCollection",
+          "videos": [
+            {
+              "__ref": "Show:{\"videoId\":81662912}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81764523}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":80113612}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":80236318}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81426967}"
+            },
+            {
+              "__ref": "Movie:{\"videoId\":81278442}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81991578}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81989322}"
+            },
+            {
+              "__ref": "Show:{\"videoId\":81509368}"
+            },
+            {
+              "__ref": "Movie:{\"videoId\":82130500}"
+            }
+          ]
+        }
+      ]
+    },
+    "videos": {
+      "70281562": {
+        "__ref": "Show:{\"videoId\":70281562}"
+      }
+    },
+    "growthPlans": {
+      "__typename": "GrowthPlans",
+      "plans": [
+        {
+          "__typename": "GrowthPlan",
+          "planId": "4001",
+          "price": {
+            "__typename": "GrowthPrice",
+            "priceInCents": 999,
+            "priceFormatted": "\u00e2\u0082\u00ac9.99",
+            "priceTier": "GLOBAL_TIER2510"
+          },
+          "name": "Basic",
+          "tag": null,
+          "attributes": {
+            "__typename": "GrowthPlanAttributes",
+            "videoQuality": "HD720P",
+            "audioQuality": "NORMAL",
+            "hasAds": false
+          }
+        },
+        {
+          "__typename": "GrowthPlan",
+          "planId": "3088",
+          "price": {
+            "__typename": "GrowthPrice",
+            "priceInCents": 1599,
+            "priceFormatted": "\u00e2\u0082\u00ac15.99",
+            "priceTier": "GLOBAL_TIER2510"
+          },
+          "name": "Standard",
+          "tag": null,
+          "attributes": {
+            "__typename": "GrowthPlanAttributes",
+            "videoQuality": "HD",
+            "audioQuality": "NORMAL",
+            "hasAds": false
+          }
+        },
+        {
+          "__typename": "GrowthPlan",
+          "planId": "3108",
+          "price": {
+            "__typename": "GrowthPrice",
+            "priceInCents": 2099,
+            "priceFormatted": "\u00e2\u0082\u00ac20.99",
+            "priceTier": "GLOBAL_TIER2510"
+          },
+          "name": "Premium",
+          "tag": "MOST_POPULAR",
+          "attributes": {
+            "__typename": "GrowthPlanAttributes",
+            "videoQuality": "UHD",
+            "audioQuality": "PREMIUM",
+            "hasAds": false
+          }
+        }
+      ],
+      "offer": null
+    }
+  }
+}

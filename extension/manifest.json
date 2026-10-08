@@ -1,0 +1,58 @@
+{
+  "manifest_version": 3,
+  "name": "SitcomShuffle Auto-Play Companion",
+  "version": "2.14",
+  "description": "Auto-starts playback, auto-skips intros, auto-advances to the next SitcomShuffle episode across Netflix, Disney+, Prime Video, and HBO Max.",
+  "action": {
+    "default_title": "SitcomShuffle settings",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "debugger"
+  ],
+  "host_permissions": [
+    "*://play.hbomax.com/*",
+    "*://*.hbomax.com/*",
+    "*://play.max.com/*",
+    "*://*.max.com/*",
+    "*://*.netflix.com/*",
+    "*://*.disneyplus.com/*",
+    "*://*.primevideo.com/*",
+    "*://*.amazon.com/gp/video/*",
+    "http://localhost:3000/*",
+    "http://127.0.0.1:3000/*",
+    "http://localhost:5173/*",
+    "http://127.0.0.1:5173/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://play.hbomax.com/*",
+        "*://*.hbomax.com/*",
+        "*://play.max.com/*",
+        "*://*.max.com/*",
+        "*://*.netflix.com/*",
+        "*://*.disneyplus.com/*",
+        "*://*.primevideo.com/*",
+        "*://*.amazon.com/gp/video/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": [
+        "http://localhost:3000/*",
+        "http://127.0.0.1:3000/*",
+        "http://localhost:5173/*",
+        "http://127.0.0.1:5173/*"
+      ],
+      "js": ["local_bridge.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
