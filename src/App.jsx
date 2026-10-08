@@ -59,6 +59,8 @@ export default function App() {
     return saved && typeof saved === 'object' && !Array.isArray(saved) ? saved : {};
   });
 
+  const [theme, setTheme] = useState(() => loadJSON('sitcom_shuffle_theme', 'default'));
+
   // Links learned by the extension from real playback ("learned:..." / "bad:..." keys) and a log of changes
   const [learnedLinks, setLearnedLinks] = useState(() => {
     const saved = loadJSON('sitcom_shuffle_learned_links', {});
@@ -95,6 +97,12 @@ export default function App() {
   useEffect(() => { saveJSON('sitcom_shuffle_custom_links', customLinks); }, [customLinks]);
   useEffect(() => { saveJSON('sitcom_shuffle_learned_links', learnedLinks); }, [learnedLinks]);
   useEffect(() => { saveJSON('sitcom_shuffle_learn_log', learnLog); }, [learnLog]);
+  useEffect(() => { saveJSON('sitcom_shuffle_theme', theme); }, [theme]);
+
+  // Apply theme to body
+  useEffect(() => {
+    document.body.className = theme === 'default' ? '' : `theme-${theme}`;
+  }, [theme]);
 
   // Rules changed (count, seasons, platform, order, show added/removed):
   // keep the episode currently on screen and reshuffle only what comes after it.
@@ -346,6 +354,8 @@ export default function App() {
         autoPlayEnabled={autoPlayEnabled}
         onToggleAutoPlay={() => setAutoPlayEnabled(!autoPlayEnabled)}
         extensionConnected={extensionConnected}
+        theme={theme}
+        setTheme={setTheme}
       />
 
       <div className="main-grid">
