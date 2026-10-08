@@ -422,7 +422,14 @@ function checkDisneyEndCard() {
     '.up-next-countdown__container, [data-testid="up-next-dialog-button"], [data-testid="up-next-button"], [data-testid*="up-next"], .up-next-button, [aria-label*="Next Episode" i], [aria-label*="Sonraki" i]'
   );
   for (const next of genericNexts) {
-    if (isElementVisible(next)) {
+    // React conditionally mounts these only at the end, so their presence in the DOM is sufficient
+    // even if CSS transitions make them temporarily "invisible" to getBoundingClientRect.
+    const isExplicitEndCard = 
+      next.classList?.contains('up-next-countdown__container') || 
+      next.dataset?.testid === 'up-next-dialog-button' ||
+      next.dataset?.testid === 'up-next-button';
+
+    if (isExplicitEndCard || isElementVisible(next)) {
       return next;
     }
   }
