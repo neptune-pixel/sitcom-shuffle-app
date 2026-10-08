@@ -414,6 +414,15 @@ function checkDisneyEndCard() {
     return fallback;
   }
 
+  // 4. Generic Next buttons (Hulu merge UI)
+  const genericNext = findDeep(
+    document,
+    '[data-testid="up-next-button"], [data-testid*="up-next"], .up-next-button, [aria-label*="Next Episode" i], [aria-label*="Sonraki" i]'
+  );
+  if (genericNext && isElementVisible(genericNext)) {
+    return genericNext;
+  }
+
   return null;
 }
 
@@ -448,8 +457,6 @@ function checkVideoEnd() {
       triggerEnd("disney_next_btn_visible");
       return;
     }
-    // Only advance when the Disney+ end card is explicitly visible on screen
-    return;
   }
 
   const mainVid = getMainEpisodeVideo();
@@ -528,10 +535,12 @@ function checkVideoEnd() {
   // ==========================================
   // 5. NATIVE VIDEO END FALLBACK (Only for real full-length episodes)
   // ==========================================
-  if (mainVid && mainVid.duration > 600 && mainVid.currentTime > 500 && mainVid.ended === true) {
-    console.log("[SitcomShuffle Extension] Full-length episode video ended natively. Advancing...");
-    triggerEnd("full_video_ended_natively");
-    return;
+  if (mainVid && mainVid.duration > 600 && mainVid.currentTime > 500) {
+    if (mainVid.ended === true || (mainVid.duration - mainVid.currentTime < 1.5)) {
+      console.log("[SitcomShuffle Extension] Full-length episode video ended natively. Advancing...");
+      triggerEnd("full_video_ended_natively");
+      return;
+    }
   }
 }
 
