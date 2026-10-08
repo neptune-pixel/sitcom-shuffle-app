@@ -455,11 +455,9 @@ function checkVideoEnd() {
   // 1. DISNEY+: STRICT "SONRAKİ BÖLÜM" CARD CHECK
   // ==========================================
   if (url.includes("disneyplus.com")) {
-    // The end card only appears after real playback; skip the expensive shadow DOM search before that
-    const disneyVideo = getMainEpisodeVideo();
-    const disneyEligible = disneyVideo
-      ? disneyVideo.currentTime > 120
-      : (Date.now() - playbackStartTime > 120000);
+    // The end card only appears after real playback; skip the expensive shadow DOM search before that.
+    // We only require 5 seconds to prevent misfiring on lingering DOM nodes during page transitions.
+    const disneyEligible = (Date.now() - playbackStartTime > 5000);
     if (!disneyEligible) return;
 
     const disneyNext = checkDisneyEndCard();
