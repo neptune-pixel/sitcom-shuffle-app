@@ -11,14 +11,16 @@ const APP_URL_PATTERNS = [
   "http://localhost:3000/*",
   "http://127.0.0.1:3000/*",
   "http://localhost:5173/*",
-  "http://127.0.0.1:5173/*"
+  "http://127.0.0.1:5173/*",
+  "https://sitcom-shuffle-app.vercel.app/*"
 ];
 
 const APP_ORIGINS = new Set([
   "http://localhost:3000",
   "http://127.0.0.1:3000",
   "http://localhost:5173",
-  "http://127.0.0.1:5173"
+  "http://127.0.0.1:5173",
+  "https://sitcom-shuffle-app.vercel.app"
 ]);
 
 // Hosts we are allowed to open. A host matches if it equals an entry or is a subdomain of it.
