@@ -177,7 +177,7 @@ All state is preserved in browser `localStorage`:
 
 ## 6. Supported Shows & Current Link Coverage
 
-The database currently holds 8 sitcoms in [src/data/sitcomsData.js](file:///c:/Users/afkav/.gemini/antigravity/scratch/sitcom-shuffle-app/src/data/sitcomsData.js) (Seinfeld, It's Always Sunny, Rick and Morty and New Girl were removed on 2026-10-08):
+The database currently holds 9 sitcoms in [src/data/sitcomsData.js](file:///c:/Users/afkav/.gemini/antigravity/scratch/sitcom-shuffle-app/src/data/sitcomsData.js) (Seinfeld, It's Always Sunny, Rick and Morty and New Girl were removed on 2026-10-08):
 
 | Show ID | Title | Default Platform | Built-in Episode Links | Notes |
 |---|---|---|---|---|
@@ -189,6 +189,7 @@ The database currently holds 8 sitcoms in [src/data/sitcomsData.js](file:///c:/U
 | `modern-family` | Modern Family | Disney+ | **250 / 250** | 100% complete |
 | `parks-and-rec` | Parks and Recreation | Prime Video | **125 / 125** | Uses episode URLs |
 | `tbbt` | The Big Bang Theory | HBO Max | **279 / 279** | 100% complete with full Max watch URLs |
+| `two-and-a-half-men` | Two and a Half Men | Prime Video | **262 / 262** | Episode URLs use `amzn1.dv.gti.*` IDs; raw scrape in `tools/datasets/tahm_prime_episodes.json` |
 
 ---
 
